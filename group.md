@@ -4,6 +4,6 @@ title: Research Group
 permalink: /group/
 ---
 
-Send me a tweet or try looking try
+![image-title-here](https://wiki.cam.ac.uk/wiki/ajmorris/img_auth.php/8/83/Group-ajm4.png)
 
-[my website](http://www.andrewjmorris.org)
+Under construction: try [my website](http://www.andrewjmorris.org)

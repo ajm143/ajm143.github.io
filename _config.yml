@@ -16,8 +16,7 @@
 title: A. J. Morris Group
 email: a.j.morris.1@bham.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
-   I am a Senior Birmingham Fellow at the University of Birminghma
-   ![image-title-here](https://wiki.cam.ac.uk/ajmorris/File:Andrew.png){:class="img-responsive"}
+   Universities of Birmingham and Cambridge
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: condensedmatter
