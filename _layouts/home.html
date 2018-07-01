@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+{{ content }}
+
+<div class="Recent news" style="float :left">
+<h2> Recent News </h2>
+
+{% for post in site.posts limit:3 %}
+  {% if post.categories contains 'news' %}
+        {{ post.url }} {{ post.title }} 
+           Date: {{ post.date }}
+
+                  {{ post.content | strip_html | truncatewords: 100 }}
+    {% endif %}
+{% endfor %}
+</div>
+
