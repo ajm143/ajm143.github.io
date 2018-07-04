@@ -1,9 +1,9 @@
 ---
 layout: group_post
-title:  "Joseph Nelson"
+title:  "Martin D. Mayo"
 date:   2018-06-30 14:16:33 +0100
-categories: group
-posiiton: "Senior Birmingham Fellow"
+categories: previous_group
+posiiton: "Graduate Student"
 address: "1D27,  School of Metallurgy and Materials,  University of Birmingham  Edgbaston  Birmingham  B15 2TT  UK" 
 telephone: "+44 (0)121 4143428"
 email: "a.j.morris.1@bham.ac.uk"

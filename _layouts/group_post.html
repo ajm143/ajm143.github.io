@@ -1,27 +1,11 @@
 ---
-layout: default
+layout: post
 title: This is just a placeholder post
 ---
 <link rel="stylesheet" href="{{ site.baseurl }}/assets/stylesheets/site.css">
 
-<div class="person_box">
-
-<h1>{{ post.title }}</h1>
-
-<p> Make the group_post look for a picture </p>
-<p> We're going to need some css here </p>
-
-<p>Address: {{page.address }} </p>
- 
-<p>Telephone: {{ page.telephone }} </p>
-
-<p>E-mail: {{ page.email }} </p>
-
-<p>Skype: {{ page.skype }} </p>
-
-<p>Twitter: {{ page.twitter }} </p>
-</div>
-
+{% include person_box.html photo=page.photo position=page.position address=page.address telephone=page.telephone email=page.email skype=page.skype twitter=page.twitter%}
 <div>
 {{ content }}
 </div>
+

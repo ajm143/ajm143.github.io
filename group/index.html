@@ -3,33 +3,32 @@ layout: default
 title: Research Group 
 category: group 
 ---
+
+<!-- This is index for the Group  -->
+
 <link rel="stylesheet" href="{{ site.baseurl }}/assets/stylesheets/site.css">
 {% for post in site.posts %}      
   {% if post.categories contains 'group' %}
 	<div class="post">
-		<h3 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
 
-<div class="person_box">
+{% include person_box.html url = post.url title = post.title photo=post.photo position=post.position address=post.address telephone=post.telephone email=post.email skype=post.skype twitter=post.twitter %}
 
-<h1>{{ post.title }}</h1>
-<p> Make the div box an include, so we can use it in two places </p>
-<p> Make the group_post look for a picture </p>
-<p> We're going to need some css here </p>
 
-<p>Address: {{page.address }} </p>
-
-<p>Telephone: {{ page.telephone }} </p>
-
-<p>E-mail: {{ page.email }} </p>
-
-<p>Skype: {{ page.skype }} </p>
-
-<p>Twitter: {{ page.twitter }} </p>
-</div>
-
-		<div class="entry">
-			{{ post.content | strip_html | truncatewords: 100 }}
-		</div>
 	</div>
+<br/>
+  {% endif %}
+{% endfor %}
+
+<h2> Previous Group Members </h2>
+
+{% for post in site.posts %}
+  {% if post.categories contains 'previous_group' %}
+        <div class="post">
+
+{% include person_box.html url = post.url title = post.title photo=post.photo position=post.position address=post.address telephone=post.telephone email=post.email skype=post.skype twitter=post.twitter %}
+
+
+        </div>
+<br/>
   {% endif %}
 {% endfor %}

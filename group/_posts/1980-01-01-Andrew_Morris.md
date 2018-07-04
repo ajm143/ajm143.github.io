@@ -3,7 +3,8 @@ layout: group_post
 title:  "Andrew J. Morris"
 date:   2018-06-30 14:16:33 +0100
 categories: group
-posiiton: "Senior Birmingham Fellow"
+photo: "https://wiki.cam.ac.uk/wiki/ajmorris/img_auth.php/e/e3/Andrew.png"
+position: "Senior Birmingham Fellow"
 address: "1D27,  School of Metallurgy and Materials,  University of Birmingham  Edgbaston  Birmingham  B15 2TT  UK" 
 telephone: "+44 (0)121 4143428"
 email: "a.j.morris.1@bham.ac.uk"
