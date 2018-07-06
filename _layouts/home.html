@@ -1,19 +1,20 @@
 ---
 layout: default
 ---
+<link rel="stylesheet" href="{{ site.baseurl }}/assets/stylesheets/site.css">
 
 {{ content }}
 
 <div class="Recent news" style="float :left">
 <h2> Recent News </h2>
 
-{% for post in site.posts limit:3 %}
-  {% if post.categories contains 'news' %}
-        {{ post.url }} {{ post.title }} 
-           Date: {{ post.date }}
+{% assign posts = site.posts | where_exp: "post", "post.categories contains 'news'" %}
 
-                  {{ post.content | strip_html | truncatewords: 100 }}
-    {% endif %}
+{% for post in posts limit:3 %}
+
+<h3 style="bold"> {{ post.date | date: '%d %B %Y' }} - {{ post.title}} </h3>
+
+                  {{ post.content }}
+
 {% endfor %}
 </div>
-

@@ -13,6 +13,3 @@ Look at our [projects](/projects)
 ![image-title-here](https://wiki.cam.ac.uk/wiki/ajmorris/img_auth.php/a/a2/Gete-l8jeym.png){:style="float: left;margin-right: 7px;margin-top: 7px;width: 30%;"}
 
 ![image-title-here](https://wiki.cam.ac.uk/wiki/ajmorris/img_auth.php/4/4f/Defect.jpg){:style="float: left;margin-right: 7px;margin-top: 7px;width: 30%;"}
-
-![image-title-here](https://wiki.cam.ac.uk/wiki/ajmorris/img_auth.php/8/83/Group-ajm4.png)
-

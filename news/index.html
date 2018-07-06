@@ -1,15 +1,14 @@
 ---
 layout: default
-title: News 
+title: News
 category: news
 ---
-{% for post in site.posts %}      
+{% for post in site.posts %}
   {% if post.categories contains 'news' %}
 	<div class="post">
-		<h3 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
-		<p class="meta">Date: {{ post.date }}</p>
+		<h3>{{ post.date | date: '%d %B %Y' }} <a href="{{ post.url }}">{{ post.title }}</a></h3>
 		<div class="entry">
-			{{ post.content | strip_html | truncatewords: 100 }}
+			{{ post.content| truncatewords: 100 }}
 		</div>
 	</div>
   {% endif %}

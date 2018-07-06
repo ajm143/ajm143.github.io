@@ -15,11 +15,10 @@
 # in the templates via {{ site.myvariable }}.
 title: A. J. Morris Group
 email: a.j.morris.1@bham.ac.uk
-description: >- # this means to ignore newlines until "baseurl:"
-   Universities of Birmingham and Cambridge
+description: Universitites of Birmingham and Cambridge
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: condensedmatter
+#twitter_username: condensedmatter
 github_username:  ajm143
 
 # Build settings
@@ -27,6 +26,15 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+
+header_pages:
+ - news/index.html
+ - group/index.html
+ - research.md
+ - publications/index.md
+ - projects.md
+ - outreach.md
+ - teaching.md
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

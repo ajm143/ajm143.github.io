@@ -1,13 +1,17 @@
 ---
 layout: default
-title: Research Group 
-category: group 
+title: Research Group
+category: group
 ---
 
 <!-- This is index for the Group  -->
 
 <link rel="stylesheet" href="{{ site.baseurl }}/assets/stylesheets/site.css">
-{% for post in site.posts %}      
+
+<img src="https://wiki.cam.ac.uk/wiki/ajmorris/img_auth.php/8/83/Group-ajm4.png">
+
+
+{% for post in site.posts reversed %}
   {% if post.categories contains 'group' %}
 	<div class="post">
 
