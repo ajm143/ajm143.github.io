@@ -3,17 +3,24 @@ layout: page
 title: Research
 permalink: /research/
 ---
+<div style="float: right; background: lightgrey; width: 50%" >
+<h2>Plain English</h2>
+
+The creation of new materials is both difficult and expensive. It is very difficult to “see” the structure of these materials over the length scales that they work and very expensive to create prototype materials to test. Whilst experimental physics can use x-rays, high energy electrons or neutrons to infer the structure of these materials, this inference is made much more robust when combined with theoretical predictions of the kinds of structures that can be formed. In a computer we use quantum mechanical calculations to simulate the results of these kinds of experiments, helping to understand materials and suggest new materials with the kind of properties desired.
+</div>
 
 # Energy Materials
+![Amorphous silica]({{ site.url }}/images/Amorphous.png){:style="float: left;margin-right: 7px;margin-top: 7px;height: 200px"}
 
 Silicon is the next wonder material for lithium-ion batteries, having a theoretical capacity some 10 times greater than the current graphitic anode. However, there are many obstacles to be overcome such as anode pulverisation, irreversible lithium losses and huge volume changes before the their potential.
 
-We have a long running collaboration with Prof Clare Grey and Prof Chris Pickard using the ab initio random structure searching method (AIRSS) to predict the stable phases of electrodes that occur as a lithium-ion battery charges.
+We have a long running collaboration with [Prof Clare Grey](https://www.ch.cam.ac.uk/group/grey/) and [Prof Chris Pickard](https://www.msm.cam.ac.uk/people/pickard) using the *ab initio* random structure searching method (AIRSS) to predict the stable phases of electrodes that occur as a lithium-ion battery charges.
 
 Over the course of the project we have found new phases of lithium silicides, lithium germanides, lithium phosphides and lithium sulphides, including new defect and high-pressure phases.
 
 
 # Ab initio Prediction of Solid-Solid Interfaces in Batteries
+![Amorphous silica]({{ site.url }}/images/Amorphous.png){:style="float: right;margin-right: 7px;margin-top: 7px;height: 200px"}
 
 Conventional rechargeable lithium-ion batteries (LIBs) utilise solid electrodes and liquid electrolytes. Combustible organic electrolytes pose potential safety risks, including volatilisation, flammability and even explosion. Solid-state (SS) inorganic electrolytes have the potential to eliminate these safety concerns, while providing high-energy LIBs. Two major challenges, however, have been hindering the practical high-performance all-SS battery applications: (1) the rather low ionic conductivities of SS electrolytes compared to liquid counterparts and (2) high resistance at the electrolyte/electrode interfaces that further curtails the ion migration. Sulfide-based electrolytes are a possible solution for the former, displaying ionic conductivities comparable to the organic counterparts, with potential enhancements by dopants. Besides, the interfacial resistances can be lowered by a rational design of the interfaces and the use of buffer layers.
 
@@ -21,6 +28,7 @@ To tackle these issues, an automated computational procedure is devised in our g
 
 
 # Point-defects
+![Amorphous silica]({{ site.url }}/images/Amorphous.png){:style="float: left;margin-right: 7px;margin-top: 7px;height: 200px"}
 
 We are interested in the atomic and electronic structure of impurities in batteries, semiconductors and ceramics. Using AIRSS we predict the low energy structures at various impurity concentrations. We have various ways to include entropy into the final results. Point-defects in materials are especially difficult to determine experimentally – the standard technique of x-ray diffraction is not possible – and it is also very challenging to predict their structure theoretically.
 
@@ -30,6 +38,7 @@ In collaboration with Dr Dorothy Duffy's group at University College London we p
 
 
 # Theoretical Spectroscopy
+![Amorphous silica]({{ site.url }}/images/Amorphous.png){:style="float: right;margin-right: 7px;margin-top: 7px;height: 200px"}
 
 Producing high-quality density of states plots from Kohn-Sham eigenvalues is important for understanding the electronic structure and position of impurity states. Simple Gaussian smearing is ineffective due to the nature of dispersive bulk and localized defect states whereas the linear tetrahedron method is interpolative and will always avoid band crossings.
 
@@ -38,6 +47,7 @@ In collaboration with Prof Jonathan Yates and Dr Rebecca Nicholls at the Univers
 OptaDOS is open source an can be freely downloaded by the scientific community from www.optados.org and is used by many research groups around the world
 
 # Encapsulation in Nanotubes
+![Amorphous silica]({{ site.url }}/images/Amorphous.png){:style="float: left;margin-right: 7px;margin-top: 7px;height: 200px"}
 
 In collaboration with Drs David Quigely and Jeremy Sloan at the University of Warwick. We predict the structure of tiny crystals that can form inside carbon nanotubes.
 
