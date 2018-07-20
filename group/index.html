@@ -12,13 +12,13 @@ category: group
 
 
 {% for post in site.posts reversed %}
-  {% if post.categories contains 'group' %}
-	<div class="post">
+  {% if post.categories contains 'current' %}
+        <div class="post">
 
 {% include person_box.html url = post.url title = post.title photo=post.photo position=post.position address=post.address telephone=post.telephone email=post.email skype=post.skype twitter=post.twitter %}
 
 
-	</div>
+	    </div>
 <br/>
   {% endif %}
 {% endfor %}
@@ -26,7 +26,7 @@ category: group
 <h2> Previous Group Members </h2>
 
 {% for post in site.posts %}
-  {% if post.categories contains 'previous_group' %}
+  {% if post.categories contains 'previous' %}
         <div class="post">
 
 {% include person_box.html url = post.url title = post.title photo=post.photo position=post.position address=post.address telephone=post.telephone email=post.email skype=post.skype twitter=post.twitter %}

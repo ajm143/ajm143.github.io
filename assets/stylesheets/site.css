@@ -21,10 +21,11 @@ img {
 }
 
 .person_box {
-    float: right;
+    float: center;
     background-color: white;
     width: 700px;
-    border: 5px solid green;
+    border: 5px solid grey;
     padding: 5px;
     margin: 5px;
 }
+
