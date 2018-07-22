@@ -36,6 +36,16 @@ header_pages:
  - outreach.md
  - teaching.md
 
+defaults:
+  -
+    scope:
+      path: "_slides" 
+    values:
+      layout: "iframe"
+
+collections:
+  slides:
+    output: true
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
