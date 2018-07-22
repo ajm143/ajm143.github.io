@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Outreach
-permalink: /outreach/
+permalink: http://ajm143.github.io/outreach/
 ---
 
-Send me a tweet or try looking try
+Send me a tweet or try looking at
 
 [Outreach](https://wiki.cam.ac.uk/ajmorris/Outreach)

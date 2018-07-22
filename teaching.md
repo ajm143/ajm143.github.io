@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Teaching
-permalink: /teaching/
+permalink: http://ajm143.github.io/teaching/
 ---
 
 ## University of Birmingham

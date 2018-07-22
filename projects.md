@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-permalink: /projects/
+permalink: http://ajm143.github.io/projects/
 ---
 
 [I currently have an open funded PhD studentship position](https://wiki.cam.ac.uk/ajmorris/PhD_Position_Autumn_2017)
