@@ -3,14 +3,14 @@ layout: page
 title: Research
 permalink: http://ajm143.github.io/research/
 ---
-<div style="float: right; background: lightgrey; width: 50%" >
+<div style="float: center; background: lightgrey; width: 700px;border: 10px solid lightgrey;text-align: justify" >
 <h2>Plain English</h2>
 
 The creation of new materials is both difficult and expensive. It is very difficult to “see” the structure of these materials over the length scales that they work and very expensive to create prototype materials to test. Whilst experimental physics can use x-rays, high energy electrons or neutrons to infer the structure of these materials, this inference is made much more robust when combined with theoretical predictions of the kinds of structures that can be formed. In a computer we use quantum mechanical calculations to simulate the results of these kinds of experiments, helping to understand materials and suggest new materials with the kind of properties desired.
 </div>
 
 # Energy Materials
-![Amorphous silica]({{ site.url }}/images/Amorphous.png){:style="float: left;margin-right: 7px;margin-top: 7px;height: 200px"}
+![Li-ion Intercalation Materials]({{ site.url }}/images/batteries.png){:style="float: left;margin-right: 7px;margin-top: 7px;width: 350px"}
 
 Silicon is the next wonder material for lithium-ion batteries, having a theoretical capacity some 10 times greater than the current graphitic anode. However, there are many obstacles to be overcome such as anode pulverisation, irreversible lithium losses and huge volume changes before the their potential.
 
