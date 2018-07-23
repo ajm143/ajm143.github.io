@@ -11,6 +11,9 @@
  - AFH done
 * Add figures and update Research section
  - AFH working on this
+ - Need to add in links to relevant papers
+ - NEed to possibly make this a heading with posts because we want to have the short summary at the front and then link to a page with details, papers, ongoing work, etc.
+ - in the structure prediction section we need links to codes
 * Add links to our codes -- optados, matador etc
 * Publications need checking, addition of OpenAccess links
 * Outeach page needs copying accross
