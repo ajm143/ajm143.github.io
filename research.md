@@ -83,5 +83,5 @@ Producing high-quality density of states plots from Kohn-Sham eigenvalues is imp
 
 **Collaborators**
 
-In collaboration with Prof [Jonathan Yates](http://www.materials.ox.ac.uk/peoplepages/yates.html) and Dr [Rebecca Nicholls](http://www.materials.ox.ac.uk/peoplepages/nicholls.html) at the University of Oxford we author the OptaDOS code. 
+In collaboration with Prof [Jonathan Yates](http://www.materials.ox.ac.uk/peoplepages/yates.html) and Dr [Rebecca Nicholls](http://www.materials.ox.ac.uk/peoplepages/nicholls.html) at the University of Oxford we author the <a href="http://www.tcm.phy.cam.ac.uk/~ajm255/optados/index.html"><code>OptaDOS</code></a> code. 
 
