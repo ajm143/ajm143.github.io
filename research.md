@@ -68,7 +68,7 @@ In addition to using structure prediction tools to characterise systems of exper
 
 
 # Theoretical Spectroscopy
-![DOS]({{ site.url }}/images/optados-image.png){:style="float: right;margin-right: 7px;margin-top: 7px;height: 200px"}
+![DOS]({{ site.url }}/images/nanotube-dos.png){:style="float: right;margin-right: 0px;margin-top: 0px;height: 350px"}
 
 Producing high-quality density of states plots from Kohn-Sham eigenvalues is important for understanding the electronic structure and position of impurity states. Simple Gaussian smearing is ineffective due to the nature of dispersive bulk and localized defect states whereas the linear tetrahedron method is interpolative and will always avoid band crossings.
 
@@ -85,3 +85,6 @@ Producing high-quality density of states plots from Kohn-Sham eigenvalues is imp
 
 In collaboration with Prof [Jonathan Yates](http://www.materials.ox.ac.uk/peoplepages/yates.html) and Dr [Rebecca Nicholls](http://www.materials.ox.ac.uk/peoplepages/nicholls.html) at the University of Oxford we author the <a href="http://www.tcm.phy.cam.ac.uk/~ajm255/optados/index.html"><code>OptaDOS</code></a> code. 
 
+**Software**
+
+* <a href="http://www.tcm.phy.cam.ac.uk/~ajm255/optados/index.html"><code>OptaDOS</code></a> 
