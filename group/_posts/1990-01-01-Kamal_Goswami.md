@@ -3,7 +3,7 @@ layout: group_post
 title:  "Kamal Goswami"
 date:   2018-06-30 14:16:33 +0100
 categories: current
-photo: "https://wiki.cam.ac.uk/wiki/ajmorris/img_auth.php/6/60/Kamal.jpg"
+photo: "/images/Kamal.jpg"
 position: "PDRA"
 address: "School of Metallurgy and Materials, University of Birmingham, Edgbaston, Birmingham B15 2TT, UK"
 email: "kamalnayan.ju@gmail.com"

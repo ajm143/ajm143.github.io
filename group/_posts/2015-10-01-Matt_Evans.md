@@ -3,7 +3,7 @@ layout: group_post
 title:  "Matthew Evans"
 date:   2018-06-30 14:16:33 +0100
 categories: current
-photo: "https://wiki.cam.ac.uk/wiki/ajmorris/img_auth.php/b/be/MLE.JPG"
+photo: "/images/MLE.JPG"
 position: "PhD Student"
 address: "TCM Group, Cavendish Laboratory, Mott building, Room 525"
 email: "me388@cam.ac.uk"

@@ -4,7 +4,7 @@ title:  "Bora Karasulu"
 date:   2018-06-30 14:16:33 +0100
 categories: current
 position: "PDRA"
-photo: "https://wiki.cam.ac.uk/wiki/ajmorris/img_auth.php/d/dc/Bk393.jpg"
+photo: "/images/Bk393.jpg"
 address: "TCM Group, Cavendish Laboratory, 19 JJ Thomson Avenue, Cambridge, CB3 0HE"
 telephone: "+44(0)1223 7 46644"
 email: "bk393@cam.ac.uk"

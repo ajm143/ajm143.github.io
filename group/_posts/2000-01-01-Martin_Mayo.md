@@ -5,7 +5,7 @@ title:  "Martin D. Mayo"
 date:   2018-06-30 14:16:33 +0100
 categories: previous
 posiiton: "Graduate Student"
-photo: "https://wiki.cam.ac.uk/wiki/ajmorris/img_auth.php/1/1a/MDM.png"
+photo: "/images/MDM.png"
 address: "TCM Group, Cavendish Laboratory, 19 JJ Thomson Avenue, Cambridge, CB3 0HE"
 email: "mdm45@cam.ac.uk"
 skype: "martin_mayo1"

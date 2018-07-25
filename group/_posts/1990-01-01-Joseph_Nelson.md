@@ -4,7 +4,7 @@ title:  "Joseph Nelson"
 date:   2018-06-30 14:16:33 +0100
 categories: current
 posiiton: "PDRA"
-photo: "https://wiki.cam.ac.uk/wiki/ajmorris/img_auth.php/6/6b/JRN.jpg"
+photo: "/images/JRN.jpg"
 address: "TCM Group, Cavendish Laboratory, 19 JJ Thomson Avenue, Cambridge, CB3 0HE"
 telephone: "i+44(0)1223 7 46644"
 email: "jn336@cam.ac.uk"

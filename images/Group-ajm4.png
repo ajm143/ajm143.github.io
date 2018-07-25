@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+
+<!--[if lt IE 7]>      <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>             <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" class="no-js"><!--<![endif]-->
+<head>
+  <meta http-equiv="Content-Type" content="text/html" />
+
+<title>Raven login</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+<link rel="shortcut icon" href="/favicon.ico" />
+  <link rel="apple-touch-icon-precomposed" href="/images/GreenRaven144.png" />
+
+<!-- CSS : implied media="all" -->
+  <link rel="stylesheet" href="/stylesheets/full-stylesheet.css" />
+  <link rel="stylesheet" href="/stylesheets/apps.css" />
+
+<script type="text/javascript">  document.documentElement.className += " js";</script>
+        <script type="text/javascript" src="/javascripts/libs/jquery-min.js"></script>
+
+<script type="text/javascript" src="/javascripts/capslock_warning.js"></script>
+<script type="text/javascript" src="/javascripts/reveal_passwd.js"></script>
+
+<link rel="stylesheet" href="/raven.css" />
+
+<script type="text/javascript">
+ <!--
+ var used = false; 
+ function init(){
+   if (self != top) top.location = self.location;
+   if (!used) document.credentials.userid.focus();  }
+ // -->
+ </script>
+</head>
+<body onload="init()">
+        <a href="#nav" class="campl-skipTo" tabindex="1">skip to navigation</a>
+        <a href="#content" class="campl-skipTo" tabindex="2">skip to content</a>
+
+<div class="campl-row campl-global-header">
+                <div class="campl-wrap clearfix">       
+                        <div class="campl-header-container campl-column10" id="global-header-controls">
+                                <a href="http://www.cam.ac.uk/" class="campl-main-logo">
+                                        <img alt=""  src="/images/interface/main-logo-small.png" />
+                                </a>
+                        </div>
+
+<div class="campl-column2">
+                        </div>
+                </div>          
+        </div>  
+
+<div class="campl-row campl-page-header global-page">
+                <div class="campl-wrap clearfix">
+                        <div class="campl-column12">
+                                <div class="campl-content-container">
+                                        <div class="campl-breadcrumb" id="breadcrumb">
+                                                <ul class="campl-unstyled-list campl-horizontal-navigation clearfix">
+                                                        <li class='first-child'>
+                                                                <a href="http://www.cam.ac.uk/" class="campl-home ir">Home</a>
+                                                        </li>
+                                                        <li>
+                                                                <a href="http://www.uis.cam.ac.uk/">University Information Services</a>
+                                                        </li>
+                                                        <li>
+                                                                <p class="campl-current">Raven</p>
+                                                        </li>
+                                                </ul>
+                                        </div>
+<!-- 
+                                        <p class="campl-mobile-parent"><a href=""><span class="campl-back-btn campl-menu-indicator"></span>University Information Service</a></p>
+ -->
+                    <p class="campl-page-title">Raven</p>
+
+</div>
+                        </div>
+                </div>
+        </div>
+        <div class="campl-row campl-content"  id="content">
+                <div class="campl-wrap clearfix">
+
+<div class="campl-column12 campl-main-content">
+
+<div class="campl-column6 campl-login-form">
+            <div class="campl-content-container">
+
+<form action="authenticate2.html" method="post" name="credentials">
+
+<fieldset>
+<legend>Login</legend>
+<img class="raven-logo" alt="" src="/images/raven-logo-small.gif"
+     height="50" width="50" />
+<div class="raven-clear"></div>
+
+<input type="hidden" name="date" value="20180725T145638Z" />
+<input type="hidden" name="ver" value="3" />
+<input type="hidden" name="desc" value="Managed Wiki Service" />
+<input type="hidden" name="url" value="https://wiki.cam.ac.uk/morrisgroup/File:Group-ajm4.png" />
+
+<div class="campl-control-group">
+    <label for="userid">User-id:</label>
+    <div class="campl-controls">
+        <input id="userid" type="text" name="userid"
+         value="" placeholder="e.g fjc55" 
+         onfocus="used=true;" class="campl-input-block-level" />
+    </div>
+</div>
+
+<div class="campl-control-group">
+    <label for="pwd">Password:</label>
+    <div class="campl-controls">
+        <input id="pwd" type="password" name="pwd"
+         autocomplete="off" placeholder="your UIS or Raven password" 
+         onfocus="used=true;" class="campl-input-block-level" />
+    </div>
+</div>
+
+<div class="campl-control-group">
+    <div class="campl-controls">
+          <label class="campl-checkbox">
+              <input type="checkbox" id="override" name="override" value="override"
+               />
+              override login options for this session?
+          </label>
+    </div>
+</div>
+
+<div class="raven-right"><input type="submit" class="campl-btn
+campl-primary-cta" name="submit" value="Login" /></div>
+<div class="raven-right"><input type="submit" class="campl-btn " 
+name="cancel" value="Cancel" />&nbsp;</div>
+<div class="raven-clear"></div>
+<div class="raven-right"><a href="https://password.csx.cam.ac.uk/forgotten-passwd" title="Forgotten your password" target="top" tabindex="99">Forgotten your password?</a></div>
+
+<p>
+     <br />
+     <a href="/help/credentials.html" class="campl-icon-link" target="_blank"
+         title="Help on this dialogue box">
+         <span class="raven-icon raven-help-icon"></span>Help
+     </a>
+   </p>
+
+</fieldset>
+
+</form>
+
+</div>
+          </div>
+
+<div class="campl-column6">
+            <div class="campl-content-container">
+
+<p>The web resource you requested requires you to identify yourself <a
+href="/help/raven.html" class="helplink" target="_blank" title="Help on Raven authentication">[Help -
+why am I seeing this?]</a>.  This resource
+calls itself '<span class="sitedesc">Managed Wiki Service</span>' and
+is provided by the website <span class="url">wiki.cam.ac.uk</span>.
+You should only proceed if you are happy to be identified to this site.
+</p>
+
+<p><strong>Always</strong> quit your web browser when you have finished
+accessing services that require authentication. Do not disclose your
+password to anyone. Please report attempts to obtain your password in unusual
+circumstances. Raven necessarily uses cookies to manage your authentication
+(<a href="/privacy.html#cookie">details</a>).</p>
+
+<p>See <a href="/help/accounts.html" class="helplink" target="_blank"
+title="Help on Raven accounts">help on Raven accounts</a> if you want to
+change the password you use to log in to Raven, if your password isn't
+working, or if you don't have a Raven account but need one.</p>
+<hr />
+<p>
+<strong>New self-service password recovery from UIS</strong><br /><br />
+<a href="https://www.uis.cam.ac.uk/news/password-recovery-250418" target="top"><img class="raven-logo" src="/images/passwordRecovery_sm.png" style="padding-left: 0.4em;" /></a>
+You can now reset your UIS Password using a token sent via email or text message.<br />
+To configure this feature, log into the <a href="https://password.csx.cam.ac.uk">UIS Password Management app</a> and follow the 'Configure' link under 'Self-service password recovery'.
+</p>
+
+</div>
+          </div>
+
+</div>
+                </div>
+        </div>
+                <div class="campl-row campl-local-footer campl-app-footer">
+                        <div class="campl-wrap clearfix">
+                                <div class="campl-column6 campl-footer-navigation">
+                                        <p class="campl-app-footer-content">The Raven web authentication system is provided and managed by <a href="http://www.uis.cam.ac.uk">University Information Services</a>.</p>
+                                </div>
+                                <div class="campl-column3 campl-footer-navigation">
+                                        <div class="campl-content-container campl-navigation-list">
+                                                <h3><a href="/help/raven.html">Help</a></h3> 
+                                        </div>
+                                </div>
+                                <div class="campl-column3 campl-footer-navigation last">
+                                        <div class="campl-content-container campl-navigation-list">
+                                                <h3><a href="https://www.uis.cam.ac.uk/privacy-notice">Privacy policy</a><br /><a href="/cookie-policy.html">Cookie policy</a></h3> 
+                                        </div>
+                                </div>
+                        </div>  
+                </div>
+
+<div class="campl-row campl-global-footer">
+                <div class="campl-wrap clearfix">
+                        <div class="campl-column3 campl-footer-navigation">
+                                <div class="campl-content-container campl-navigation-list">
+                                        <p>&#169; 2018 University of Cambridge</p>
+                                </div>
+                        </div>
+                        <div class="campl-column3 campl-footer-navigation">
+                                <div class="campl-content-container campl-navigation-list">
+                                        <div class="link-list">
+                                                <h3><a href="http://www.cam.ac.uk/study-at-cambridge">Study at Cambridge</a></h3> 
+                                </div>
+                                </div>
+                        </div>
+                        <div class="campl-column3 campl-footer-navigation">
+                                <div class="campl-content-container campl-navigation-list">
+                                        <h3><a href="http://www.cam.ac.uk/about-the-university">About the University</a></h3> 
+                                </div>
+                        </div>
+                        <div class="campl-column3 campl-footer-navigation last">
+                                <div class="campl-content-container campl-navigation-list">
+                                        <h3><a href="http://www.cam.ac.uk/research">Research at Cambridge</a></h3> 
+                                </div>
+                        </div>
+                </div>  
+        </div>
+        <script type="text/javascript" src="/javascripts/libs/ios-orientationchange-fix.js"></script>
+<!--        <script type="text/javascript" src="/javascripts/libs/jquery-min.js"></script>-->
+        <script type="text/javascript" src="/javascripts/libs/modernizr.js"></script>
+        <script type="text/javascript" src="/javascripts/custom.js"></script>
+</body>
+</html>

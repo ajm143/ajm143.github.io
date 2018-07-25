@@ -3,7 +3,7 @@ layout: group_post
 title:  "Angela F. Harper"
 date:   2018-06-30 14:16:33 +0100
 categories: current
-photo: "https://wiki.cam.ac.uk/wiki/ajmorris/img_auth.php/e/e8/Angela.jpg"
+photo: "/images/Angela.jpg"
 position: "MPhil Student"
 address: "TCM Group, Cavendish Laboratory, Mott building, Room 525"
 telephone: "+44 1223 336073"

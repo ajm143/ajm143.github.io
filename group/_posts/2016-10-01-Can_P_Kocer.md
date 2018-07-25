@@ -3,7 +3,7 @@ layout: group_post
 title:  "Can Kocer"
 date:   2018-06-30 14:16:33 +0100
 categories: current
-photo: "https://wiki.cam.ac.uk/wiki/ajmorris/img_auth.php/0/07/Cpk27.jpg"
+photo: "/images/Cpk27.jpg"
 position: "PhD Student"
 address: "TCM Group, Cavendish Laboratory, Mott building, Room 525"
 email: "cpk27@cam.ac.uk"

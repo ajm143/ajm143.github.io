@@ -3,7 +3,7 @@ layout: group_post
 title:  "James Darby"
 date:   2018-06-30 14:16:33 +0100
 categories: current
-photo: "https://wiki.cam.ac.uk/wiki/ajmorris/img_auth.php/2/22/Jpd47TCM_mug_shot.jpg"
+photo: "/images/Jpd47TCM_mug_shot.jpg"
 position: "PhD Student"
 address: "TCM Group, Cavendish Laboratory, Mott building, Room 525"
 email: "jpd47@cam.ac.uk"
