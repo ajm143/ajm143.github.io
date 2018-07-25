@@ -3,7 +3,7 @@ layout: post
 title:  "New PDRA Kamal Goswami joins the group at Birmingham"
 date:   2018-05-01 00:00:00 +0100
 categories: news
-photo: "https://wiki.cam.ac.uk/wiki/ajmorris/img_auth.php/6/60/Kamal.jpg"
+photo: "/images/Kamal.jpg"
 ---
 
 
