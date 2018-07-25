@@ -2,7 +2,6 @@
 
 # TODO
 
-* A template for news
 * Add figures and update Research section
     * AFH working on this
     * Need to add in links to relevant papers
@@ -12,8 +11,9 @@
 * Previous Group Member class - who they are, what they did, where theyve gone
 * add software or downloads heading with codes and theses
 * get back open access locks on publications
-* get images from old website for news section
+* **get images from old website for news section**
 * add twitter account to footer so twitter isnt below image
+    * AFH this is impossible
 
 
 # DONE
@@ -31,4 +31,6 @@
 * Add links to our codes -- optados, matador etc
     * AFH done -- added into research section
 * Oureach page needs copying accross
+    * AFH done
+* A template for news
     * AFH done
