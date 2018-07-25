@@ -12,9 +12,9 @@ layout: default
 
 {% for post in posts limit:3 %}
 
-<h3 style="bold"> {{ post.date | date: '%d %B %Y' }} - {{ post.title}} </h3>
+    <div class="post">
+    {% include news_box.html url=post.url date=post.date title=post.title photo=post.photo position=post.position content=post.content %}
 
-                  {{ post.content }}
 
 {% endfor %}
 

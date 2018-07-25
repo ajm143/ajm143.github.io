@@ -4,9 +4,13 @@
 
 
 <div style="float:left">
-<img src=" {{ include.photo }}" alt=" {{ include.title }} class="center">
+<img src=" {{ include.photo }}" style="border-right:5px solid lightgrey" height=auto width="150" alt=" {{ include.title }} class="center">
 </div>
 
-{{ include.content }}
+    <h3>{{ include.date | date: '%d %B %Y' }} <a href="{{ include.url }}">{{ include.title }}</a></h3>
+	    <div class="entry">
+			{{ include.content| truncatewords: 100 }}
+		</div>
+    <br><br><br>
 
 </div>
