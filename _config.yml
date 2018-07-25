@@ -15,7 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: A. J. Morris Group
 email: a.j.morris.1@bham.ac.uk
-description: Universitites of Birmingham and Cambridge
+description: > #This means to ifnore blah
+    Universities of Birmingham and Cambridge
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: condensedmatter

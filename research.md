@@ -19,6 +19,7 @@ Over the course of the project we have found new phases of lithium silicides, li
 **Current Project Members:**
 
 * [Bora Karasulu]({{ site.url}}/group/current/2018/06/30/Bora_Karasulu.html)
+* [Joseph Nelson]({{ site.url}}/group/current/2018/06/30/Joseph_Nelson.html)
 * [Matthew Evans]({{ site.url}}/group/current/2018/06/30/Matt_Evans.html)
 * [Can Kocer]({{ site.url}}/group/current/2018/06/30/Can_P_Kocer.html)
 * [Angela Harper]({{ site.url}}/group/current/2018/06/30/Angela_F_Harper.html)
@@ -55,6 +56,7 @@ In addition to using structure prediction tools to characterise systems of exper
 
 **Current Project Members**
 
+* [Joseph Nelson]({{ site.url}}/group/current/2018/06/30/Joseph_Nelson.html)
 * [Matthew Evans]({{ site.url }}/group/current/2018/06/30/Matt_Evans.html)
 * [James Darby]({{ site.url }}/group/current/2018/06/30/James_Darby.html)
 * [Jamie Wynn]({{ site.url }}/group/current/2018/06/30/Jamie_Wynn.html)
