@@ -34,7 +34,7 @@ One of the skills of solving problems in physics is to think on paper. The tidie
 
 An Example of Using CASTEP-NMR from the beginning [pdf](http://www.tcm.phy.cam.ac.uk/~ajm255/NMR_example.pdf).
 
-A Real World Example of First-Principles Spectroscopy [pdf](https://wiki.cam.ac.uk/wiki/ajmorris/img_auth.php/9/90/EELS_example.pdf).
+A Real World Example of First-Principles Spectroscopy [pdf]({{ site.url }}/images/EELS_example.pdf)
 
 
 ## University College London

@@ -9,4 +9,4 @@ photo: "/images/Mayo_jacs.gif"
 
 
 
-Deadline 30 April 2018. More details [here](https://wiki.cam.ac.uk/ajmorris/PhD_Position_Autumn_2017).
+Deadline 30 April 2018. More details [here]({{ site.url }}/project_descriptions/PhD_Position_2018)
