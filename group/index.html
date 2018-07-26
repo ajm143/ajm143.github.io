@@ -8,8 +8,16 @@ category: group
 
 <link rel="stylesheet" href="{{ site.baseurl }}/assets/stylesheets/site.css">
 
-<img src="/images/Group-ajm4.png">
 
+<div style="float: center;background: #6699ff;width: 710px; border: 5px solid #6699ff; text-align: center" >
+<strong>Andrew J. Morris Group</strong> <br>
+<img src="/images/Group-ajm4.png" style="float: center;width:700px;background-color: #6699ff;border: 0px solid #6699ff"}>
+Group within Department of Physics. <br>
+(Bora, Joseph, Can, Matt, Jamie, Angela, James, Andrew) 
+</div> 
+
+
+<a href="/group/previous-group-photos.html">Group Photo Archive</a>
 
 {% for post in site.posts reversed %}
   {% if post.categories contains 'current' %}
@@ -29,10 +37,22 @@ category: group
   {% if post.categories contains 'previous' %}
         <div class="post">
 
-{% include person_box.html url = post.url title = post.title photo=post.photo position=post.position address=post.address telephone=post.telephone email=post.email skype=post.skype twitter=post.twitter %}
+{% include prev_person_box.html postmorris=post.postmorris url = post.url title = post.title photo=post.photo position=post.position address=post.address telephone=post.telephone email=post.email skype=post.skype twitter=post.twitter %}
 
 
         </div>
 <br/>
   {% endif %}
 {% endfor %}
+
+
+<div>
+<h2>Other Members</h2>
+<ul>
+<li>Francois Sherwood -- Summer Student (2015)</li>
+<li>David Wharton -- NanoCDT Project (2015), PhD Cavendish</li>
+<li>Darren Valentine -- MPhil Chemistry Project (2014-2015) PhD Oxford</li>
+<li>Ed Tait -- NanoCDT Project (2014) PhD Cavendish in Nicholas Hine's group</li>
+<li>Hugh Glass -- NanoCDT Project (2013) PhD Cavendish in Sian Dutton's group (2017) </li>
+</ul>
+</div>

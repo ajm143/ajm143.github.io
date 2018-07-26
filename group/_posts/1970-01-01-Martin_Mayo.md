@@ -1,14 +1,15 @@
 ---
 layout: group_post
 position: "Graduate Student"
-title:  "Martin D. Mayo"
-date:   2018-06-30 14:16:33 +0100
+title:  "Martin D. Mayo (2014-2017)"
+date:   1970-01-05 14:16:33 +0100
 categories: previous
 posiiton: "Graduate Student"
 photo: "/images/MDM.png"
 address: "TCM Group, Cavendish Laboratory, 19 JJ Thomson Avenue, Cambridge, CB3 0HE"
 email: "mdm45@cam.ac.uk"
 skype: "martin_mayo1"
+postmorris: ""
 ---
 I am a Winton Programme funded PhD student, currently working at the Theory of Condensed Matter group under the supervision of Dr. Andrew Morris. I am interested in studying materials properties using first-principles quantum mechanics simulations.
 

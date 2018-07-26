@@ -37,3 +37,12 @@ img {
     padding: 5px;
     margin: 5px;
 }
+
+.prev_person_box {
+    float: center;
+    background-color: lightorange;
+    width: 700px;
+    border: 5px dashed grey;
+    padding: 5px;
+    margin: 5px;
+}
