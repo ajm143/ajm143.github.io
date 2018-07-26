@@ -4,7 +4,7 @@ title: Projects
 permalink: http://ajm143.github.io/projects/
 ---
 
-[I currently have an open funded PhD studentship position](https://wiki.cam.ac.uk/ajmorris/PhD_Position_Autumn_2017)
+[I currently have an open funded PhD studentship position]({{ site.url }}/project_descriptions/PhD_Position_2018)
 
 The group is recruiting for graduate students this year (Autumn 2018, January 2019, Autumn 2019). Please see below for three suggested projects.
 

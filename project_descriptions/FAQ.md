@@ -1,3 +1,8 @@
+---
+layout: page
+title: "FAQ"
+---
+
 ## What should my background be?
 
 The strongest determining factor in your sucess at a computational project is your mathematical ability.

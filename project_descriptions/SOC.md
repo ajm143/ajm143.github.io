@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Why isn't gold silver or silver gold?"
+---
+
 Electron spin is an inherently quantum mechanical effect that has not classical analogue. Magnetism is a direct consequence of this non-classical phenomena. Many of the lighter atomic elements may be modelled within the Ising model, that is, assuming that an electron's dipole moment may be in one of two states (+1 or -1).
 
 In heavier elements, electrons near the nucleus experience relativistic speeds, leading to spin-orbit coupling (SOC) and a breakdown of the Schrodinger picture.  Spin-orbit coupling splits electronic states that are degenerate in a non-relativistic description of quantum mechanics. The eigenfunctions of these states cannot be described by a spin-up and spin-down wavefunction, the eigenfunctions are now non-colinear, hence must be described by a two-component vector called a spinor.  (Abstract representations of a spinor include Mobius strips, where a full rotation of the system through 360 degrees exhibits a spin flip).
