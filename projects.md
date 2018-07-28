@@ -31,7 +31,7 @@ Indicate me as your preference of supervisor on the application form.
 
 ## PhD and MPhil Projects
 ### Ab Initio Battery Materials Discovery
-![LiP7]({{ site.url }}/images/LiP7.png){:style="float: right;margin-right: 7px;margin-top: 7px;height: 200px"}
+![LiP7]({{ site.url }}/images/LLZO-Li.png){:style="float: right;margin-right: 10px;margin-top: 3px;height: 250px"}
 In this project we will use cutting-edge computational structure prediction techniques to investigate new electrode materials in lithium and sodium ion batteries (LIB/NIB).
 
 The theoretical prediction of even very simple structures has, until recently, been out of bounds due to the large number of possible atomic arrangements. The ab initio random structure searching method (AIRSS) [1] uses a stochastic approach to suggest different structural configurations of atoms within a material. By searching over a range of stoichiometries it is possible to model how a battery is charged as we can predict the structural changes of the electrodes as a charging potential is applied. Using this knowledge it is possible to perform further theoretical analysis such as NMR and EELS (electron energy loss) spectroscopies and predict charge and discharge voltages.
@@ -47,7 +47,7 @@ This project is computational and suitable for both the theorist interested in t
 [3] Kimberly A. See, Michal Leskes, John M. Griffin, Sylvia Britto, Peter D. Matthews, Alexandra Emly, Anton Van der Ven, Dominic S. Wright, Andrew J. Morris, Clare P. Grey and Ram Seshadri, J. Am. Chem. Soc. 136 16368 (2014)
 
 ### Defects in simple oxides and semiconductors
-![Zintl Phase]({{ site.url }}/images/Zintl.png){:style="float: left;margin-right: 7px;margin-top: 7px;height: 200px"}
+![Zintl Phase]({{ site.url }}/images/SiO2.png){:style="float: left;margin-right: 7px;margin-top: 7px;height: 200px"}
 
 In this project we investigate the atomic vacancies of a range of simple oxides using cutting-edge computational structure prediction and first-principles density-functional theory (DFT).
 
@@ -58,7 +58,7 @@ The ab initio random structure searching method has found new low-energy self-in
 There is evidence that in even the simplest of oxides, such as, Na2O, MgO, Al2O3, SiO2, P2O5, new types of vacancies can still be uncovered, suggesting that novel applications could be realised from well-known materials.
 
 ### Modelling disorder
-![Amorphous silica]({{ site.url }}/images/Amorphous.png){:style="float: right;margin-right: 7px;margin-top: 7px;height: 200px"}
+![Amorphous silica]({{ site.url }}/images/LLZO.png){:style="float: right;margin-right: 10px;margin-top: 7px;height: 250px"}
 
 Many important technologically relevant materials cannot be modelled as a periodic crystal structure. The models must also encompass the short- and longe-range disorder in these materials in order to accurately predict their properties. For example, point defects can drastically change both the electronic properties of semiconductors and the physical properties of high-performance alloys. Beyond point defects, both site disorder and amorphicity play a role in lithium ion battery electrodes.
 
