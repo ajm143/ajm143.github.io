@@ -36,6 +36,7 @@ header_pages:
  - projects.md
  - outreach.md
  - teaching.md
+ - downloads.md
 
 defaults:
   -
