@@ -7,20 +7,31 @@ permalink: http://ajm143.github.io/teaching/
 ## University of Birmingham
 
 # 3rd/4th Year Materials & Physics -- Undergraduate Final-Year Projects
+![DOS]({{ site.url }}/images/3d_harmonic_oscillator_dft_shifted.jpg){:style="float: left;margin-right: 0px;margin-top: 0px;height: 350px"}
+
 
 My research group can take one or two students for the 2018/2019 cycle. We'd love to hear from motivated Met & Mat and Physics students. Please see some the proposals list on the [projects](/projects) page for project suggestions. Projects can be tailored to individual students interests.
 
+**Left** *P. Medeiros's picture of the Kohn-Sham spectrum of a 3D harmonic oscillator. The calculation was performed using a free-electron  pseudopotential, and the harmonic potential was introduced as an external potential into CASTEP's SCF cycle. A total of 1541 bands were included in the DFT calculation. The KS eigenvalues were sorted, merged together in groups of g(n) elements (according to the expected degeneracy, see value in parenthesis), and then represented by their mean value. The maximum standard deviation is 0.01 Ha. Finally, the KS eigenvalues were shifted downwards by 0.23 Ha to match the ground level obtained from the analytical solution.*
+
 # 2nd Year Physics -- "A Quantum Approach to Solids"
+![DOS]({{ site.url }}/images/nanotube-dos.png){:style="float: right;margin-right: 0px;margin-top: 0px;height: 350px"}
 
 The course is split into three unequal parts. In the first part, we discuss how to model a solid using ideas from crystallography. Next we look at various models for vibrations in solids, where we can see how these models fare describing the  experimentally measured heat capacity. Finally, we discus the free electron and nearly-free electron model to understand the behaviour of metals, insulators and semiconductors.
 
 See the [canvas page](https://canvas.bham.ac.uk/courses/29009) for more details.
 
+**Right** *The electronic band structure and density of states of a one dimensinoal system realised inside a carbon nanotube.*
+
 # 2nd Year Materials -- "Frontiers of Materials Science"
 
 I am joint module co-ordinator of this course along with Biao Cai and David Collins. The course comprises a series of mini lecture courses on a variety of cutting edge research topics within Met & Mat.
 
+![PhD Image]({{ site.url }}/images/Mayo_jacs.gif){:style="float: left;margin-right: 7px;margin-top: 7px;width:350 px"}
+
 As part of the course I present a mini-lecture course on *Materials Modelling the Next Generation of Lithium-Ion Batteries*.
+
+**Left** *The experimental discharge profile of a sodium-tin battery anode with the corresponding computationally predicted structures shown.*
 
 # 1st Year Materials -- Data Analysis
 
