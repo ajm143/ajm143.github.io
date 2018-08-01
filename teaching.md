@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Teaching
-permalink: http://ajm143.github.io/teaching/
 ---
 
 <link rel="stylesheet" href="{{ site.baseurl }}/assets/stylesheets/site.css">
