@@ -4,10 +4,12 @@ title: Teaching
 permalink: http://ajm143.github.io/teaching/
 ---
 
-<div style="float: center; text-align: center; border-radius: 25px; background: #E68B77; border: 5px solid #E68B77">
-<h2>University of Birmingham</h2>
+<link rel="stylesheet" href="{{ site.baseurl }}/assets/stylesheets/site.css">
+<div class="crest">
+  <img src="https://upload.wikimedia.org/wikipedia/en/4/43/BirminghamUniversityCrest.svg" alt="crest" />
+  <h1>University of Birmingham</h1>
 </div>
-
+<br>
 
 <h3>3<sup>rd</sup>/4<sup>th</sup> Year Materials & Physics <br> <em>Undergraduate Final-Year Projects</em></h3>
 <div style="float: center; background: lightgrey; border-radius: 10px; width: 700px;border: 10px solid lightgrey;text-align: justify" >
@@ -52,9 +54,12 @@ The course is under construction. It will tentatively contain a discussion of ba
 
 I tutor first year Nuclear Physics students.
 
-<div style="float: center; text-align: center; border-radius: 25px; background: #a3c1ad; border: 5px solid #a3c1ad">
-<h2>University of Cambridge</h2>
+<br><br>
+<div class="crest">
+  <img src="https://upload.wikimedia.org/wikipedia/en/7/7b/University_of_Cambridge_coat_of_arms_official_version.svg" alt="crest" />
+<h1>University of Cambridge</h1>
 </div>
+<br>
 
 <h3>IA <br> <em>Physics</em></h3>
 
@@ -71,9 +76,7 @@ Here is an an example of using the DFT code CASTEP's NMR functionality from the 
 A more advanced example is about how to use DFT to predict the electron energy loss (EELS) spectra of real materials [pdf]({{ site.url }}/images/EELS_example.pdf).
 
 
-<div style="float: center; text-align: center; border-radius: 25px; background: #ea7600; border: 5px solid #ea7600">
-<h2>University College London</h2>
-</div>
+<div style="font-size: 40px;font-family: Helvetica">UCL University College London</div>
 
 At UCL I supervised problem solving classes:
 

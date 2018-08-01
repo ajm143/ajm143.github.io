@@ -46,3 +46,16 @@ img {
     padding: 5px;
     margin: 5px;
 }
+.crest img {
+  float: left;
+  width: auto;
+  height: 100px;
+  background: white;
+}
+
+.crest h1 {
+  position: relative;
+  font-size: 40px;
+  top: 10px;
+  left: 10px;
+}
