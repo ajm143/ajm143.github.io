@@ -14,9 +14,9 @@ permalink: http://ajm143.github.io/downloads/
 
 * *"Ab Initio Anode Materials Discovery for Li- and Na-Ion Batteries"*, Martin Mayo, (2017) [PhD Thesis](https://www.repository.cam.ac.uk/handle/1810/270545)
 
-## HOW-TOs
+## How-To
 
-* Run on "ARCHER"? 
+* Run on ["ARCHER"](http://www.archer.ac.uk/documentation/getting-started/)?
 * Do an NMR Calculation using <a href="http://www.castep.org/"><code>CASTEP</code></a> : [pdf](http://www.tcm.phy.cam.ac.uk/~ajm255/NMR_example.pdf)
 * Give a good answer to an undergraduate question : [pdf](http://www.tcm.phy.cam.ac.uk/~ajm255/good_practice.html)
 
