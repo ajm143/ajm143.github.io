@@ -1,0 +1,14 @@
+---
+layout: page
+title: "Solid-Electrolyte Interphase a Very Necessary Evil"
+---
+Lithium-ion batteries (LIBs) have the highest capacity of all the commercially available battery technologies and are now being deployed in hybrid and all-electric vehicles. There is substantial interest in increasing the number of recharge cycles and capacity of LIBs, driven by the economic and environmental advantages of increasing the range of electric vehicles, and enabling longer-life portable electronic devices. Lithium intercalated graphite is the standard LIB negative electrode but demand for even higher performance LIBs has motivated the investigation of other materials. Silicon is an attractive alternative since it has ten times the gravimetric and volumetric capacity of graphite (calculated from the initial mass and volume of silicon) but, unlike graphite, silicon undergoes structural changes on lithiation.
+
+Upon first charging of a LIB, a solid-electrolyte interphase (SEI) layer forms on its electrodes. Since the LIB operates outside the stability of the electrolyte, the formation of an ionicallly conducing, but electrically insulating layer between the electrolyte and the surface of the electrode is essential. In graphite this SEI is self-passivating however due to the huge volume expansion during silicon lithiation, its SEI cracks causing the continuous breakdown of the electrolyte, using up electrolyte and lithium thereby increasing resistance and decreasing capacity.
+
+It is tough to extract SEI from an experiment to characterize. Moreover, SEI is a tough substance to model before experimental characterization has been carried out since it could comprise an organic/inorganic mixture of electrode, electrolyte, binder and solvent etc.  We will use the ab initio random structure search method [1] to generate simple computational models of SEI. These models will be characterized using first principles spectroscopy, to show the Raman, EELS, NMR and optical spectra of our models.  These spectra will then be compared to experiment to gain an atomistic understanding of the complex and crucial component of LIBs.
+
+
+(Research projects have a mind of their own, and can be tailored to the taste of the student within reason.  To give a guide to the day-to-day computational activities: CASTEP is written in Fortran90/95/08, and it is very unlikely that the student would need to do more than run the code. Our research group's structure database MATADOR is written in Python, it is more likely that some new small functionality might need coding-up. Unix-based operating systems are used throughout for preparing and running code on supercomputers, and results' subsequent analysis. Hence some familiarity with Linux/Unix and procedural computing languages would be beneficial.)
+
+[1] Pickard and Needs Phys. Rev. Lett. 97, 045504 (2006)
