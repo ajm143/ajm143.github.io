@@ -4,30 +4,13 @@ title: Projects
 permalink: http://ajm143.github.io/projects/
 ---
 
-[I currently have an open funded PhD studentship position]({{ site.url }}/project_descriptions/PhD_Position_2018)
+[I currently have an open funded PhD studentship position]({{ site.url }}/project_descriptions/PhD_Position_2018) other [PhD funding oppertunities]({{ site.url }}/project_descriptions/funding) are available.
 
 The group is recruiting for graduate students this year (Autumn 2018, January 2019, Autumn 2019). Please see below for three suggested projects.
 
 I am interested in helping with applications for Marie Curie, EPRSC Post-doctoral funding etc.
 
-We also welcome short term visitors.
-
-### PhD Funding
-* From time to time I have studentship funding for certain projects.
-* Departmental UK Research Council Funding
-* I am also interested to co-supervise with supervisors from other Departments or Universities.
-
-I am quite prepared to help strong candidates to apply for funding. Designing a research project to suit us both.
-* [Marshall Scholarships](http://www.marshallscholarship.org)
-* [Commonwealth](http://cscuk.dfid.gov.uk/apply/scholarships-developed-cw/)
-* [Fullbright](http://www.fulbright.org.uk/going-to-the-uk/postgraduate-student-awards)
-* Birmingham's Global Challenge Scheme
-* Joint with the University of Melbourne [UoB/Melbourne Priestley Scholarships](https://www.birmingham.ac.uk/postgraduate/pgr/melbourne-joint-phds.aspx)
-* Joint with SUSTech – [South China University of Science and Technology](http://www.sustc.edu.cn/en/faculty_56)
-
-I am always interested in discussing project with strong candidates that have their own funding.
-
-Indicate me as your preference of supervisor on the application form.
+We also welcome short term visitors and summer interns.
 
 ## PhD and MPhil Projects
 ### Ab Initio Battery Materials Discovery
@@ -68,8 +51,8 @@ The crystal structures of new materials can be discovered using ab initio struct
 
 [Doing a Project in the Morris Group FAQs]({{ site.url }}/project_descriptions/FAQ)
 
-* [MOF! MIF! ZIF! The Fight for Open Framework Structures]
-* [Solid-Electrolyte Interphase a Very Necessary Evil]
+* MOF! MIF! ZIF! The Fight for Open Framework Structures
+* [Solid-Electrolyte Interphase a Very Necessary Evil]({{ site.url }}/project_descriptions/SEI)
 * [Spinning Around Heavy Elements -- Why isn't gold silver or silver gold?]({{ site.url }}/project_descriptions/SOC)
 * Novel Battery Materials using Ab Initio Random Structure Searching
 * Zintl-Helices using Ab Initio Random Structure Searching
