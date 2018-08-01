@@ -9,14 +9,16 @@ permalink: http://ajm143.github.io/downloads/
 * <a href="http://www.tcm.phy.cam.ac.uk/~ajm255/optados/index.html"><code>OptaDOS</code></a> For high-quality density of states, EELS and XANES.
 * <a href="http://matador.science"><code>matador</code></a> Our structure dataabse and data tool.
 * <a href="http://www.tcm.phy.cam.ac.uk/~me388/ilustrado"><code>ilustrado</code></a> Our Genetic Algorithm program.
+* <img src="https://blog.bitbucket.org/wp-content/themes/bitbucket2012/images/bitbucket.png" width="30"> [Our BitBucket](https://bitbucket.org/AJM_Group/) 
+
 
 ## Group Theses Library
 
-* *"Ab Initio Anode Materials Discovery for Li- and Na-Ion Batteries"*, Martin Mayo, (2017) [PhD Thesis](https://www.repository.cam.ac.uk/handle/1810/270545)
+* *"Ab Initio Anode Materials Discovery for Li- and Na-Ion Batteries"*, Martin Mayo, (2017) [PhD](https://www.repository.cam.ac.uk/handle/1810/270545)
 
 ## How-To
 
-* Run on ["ARCHER"](http://www.archer.ac.uk/documentation/getting-started/)?
+* Run on the UK's Tier 1 Supercomputer [ARCHER](http://www.archer.ac.uk/documentation/getting-started/)?
 * Do an NMR Calculation using <a href="http://www.castep.org/"><code>CASTEP</code></a> : [pdf](http://www.tcm.phy.cam.ac.uk/~ajm255/NMR_example.pdf)
 * Give a good answer to an undergraduate question : [pdf](http://www.tcm.phy.cam.ac.uk/~ajm255/good_practice.html)
 
