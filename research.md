@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Research
-permalink: http://ajm143.github.io/research/
 ---
 <div style="float: center; background: lightgrey; width: 700px;border: 10px solid lightgrey;text-align: justify" >
 <h2>Plain English</h2>
