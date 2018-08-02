@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Outreach
-permalink: http://ajm143.github.io/outreach/
 ---
 **Please do get in touch if you're interested in me giving a talk, teaching or presenting my work: a.j.morris.1@bham.ac.uk. Also feel free to send me a tweet [@condensedmatter](https://twitter.com/condensedmatter?lang=en)**
 

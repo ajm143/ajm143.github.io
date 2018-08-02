@@ -23,7 +23,7 @@ img {
 .person_box {
     float: center;
     background-color: white;
-    width: 700px;
+    width: 100%;
     border: 5px solid grey;
     padding: 5px;
     margin: 5px;
@@ -32,16 +32,17 @@ img {
 .news_box {
     float: center;
     background-color: lightgrey;
-    width: 700px;
+    width: 100%;
     border-left: 10px solid lightblue;
     padding: 5px;
     margin: 5px;
+    box-sizing: border-box
 }
 
 .prev_person_box {
     float: center;
     background-color: lightorange;
-    width: 700px;
+    width: 100%;
     border: 5px dashed grey;
     padding: 5px;
     margin: 5px;

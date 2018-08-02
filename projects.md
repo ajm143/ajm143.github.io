@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Projects
-permalink: http://ajm143.github.io/projects/
 ---
 
 [I currently have an open funded PhD studentship position]({{ site.url }}/project_descriptions/PhD_Position_2018) other [PhD funding oppertunities]({{ site.url }}/project_descriptions/funding) are available.

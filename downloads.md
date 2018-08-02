@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Downloads
-permalink: http://ajm143.github.io/downloads/
 ---
 
 ## Software We Develop
