@@ -14,7 +14,7 @@ title: Downloads
 ## Group Theses Library
 
 * *"Ab Initio Anode Materials Discovery for Li- and Na-Ion Batteries"*, Martin D.Mayo, (2017) [PhD](https://www.repository.cam.ac.uk/handle/1810/270545)
-* *"A Stochastic Approach To Condensed Matter Physics"*, Andrew J. Morris, (2009) [PhD](({{ site.url }})/files/Andrew_Morris_thesis_18Jan2010.pdf)
+* *"A Stochastic Approach To Condensed Matter Physics"*, Andrew J. Morris, (2009) [PhD]({{ site.url }}/files/Andrew_Morris_thesis_18Jan2010.pdf)
 
 ## How-To
 
