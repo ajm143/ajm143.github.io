@@ -9,12 +9,13 @@ permalink: http://ajm143.github.io/downloads/
 * <a href="http://www.tcm.phy.cam.ac.uk/~ajm255/optados/index.html"><code>OptaDOS</code></a> For high-quality density of states, EELS and XANES.
 * <a href="http://matador.science"><code>matador</code></a> Our structure dataabse and data tool.
 * <a href="http://www.tcm.phy.cam.ac.uk/~me388/ilustrado"><code>ilustrado</code></a> Our Genetic Algorithm program.
-* <img src="https://blog.bitbucket.org/wp-content/themes/bitbucket2012/images/bitbucket.png" width="30"> [Our BitBucket](https://bitbucket.org/AJM_Group/) 
+* <img src="https://blog.bitbucket.org/wp-content/themes/bitbucket2012/images/bitbucket.png" width="30"> [Our BitBucket](https://bitbucket.org/AJM_Group/)
 
 
 ## Group Theses Library
 
-* *"Ab Initio Anode Materials Discovery for Li- and Na-Ion Batteries"*, Martin Mayo, (2017) [PhD](https://www.repository.cam.ac.uk/handle/1810/270545)
+* *"Ab Initio Anode Materials Discovery for Li- and Na-Ion Batteries"*, Martin D.Mayo, (2017) [PhD](https://www.repository.cam.ac.uk/handle/1810/270545)
+* *"A Stochastic Approach To Condensed Matter Physics"*, Andrew J. Morris, (2009) [PhD](({{ site.url }})/files/Andrew_Morris_thesis_18Jan2010.pdf)
 
 ## How-To
 
