@@ -10,4 +10,3 @@ photo: "/images/Kamal.jpg"
 
 
 He will be working on *ab initio* structure prediction and theoretical spectroscopy to study carbon nanotube (CNT) encapsulated 1D crystals.
-

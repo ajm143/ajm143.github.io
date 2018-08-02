@@ -25,7 +25,7 @@ Within a linux environment
 
 ## Will any other methods be used?
 
-This depends on the project. My group uses whatever it can to do the best science, we frequently also use for example, molecular dynamics, theromdynamics, perturbation theory.
+This depends on the project. My group uses whatever it can to do the [best science]({{ site.url}}/project_descriptions/science.html), we frequently also use for example, molecular dynamics, theromdynamics, perturbation theory.
 
 ## What is the Research Group like ?
 
