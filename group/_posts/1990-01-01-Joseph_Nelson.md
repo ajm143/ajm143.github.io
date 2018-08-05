@@ -3,7 +3,7 @@ layout: group_post
 title:  "Joseph Nelson"
 date:   2018-06-30 14:16:33 +0100
 categories: current
-posiiton: "PDRA"
+position: "PDRA"
 photo: "/images/JRN.jpg"
 address: "TCM Group, Cavendish Laboratory, 19 JJ Thomson Avenue, Cambridge, CB3 0HE"
 telephone: "i+44(0)1223 7 46644"

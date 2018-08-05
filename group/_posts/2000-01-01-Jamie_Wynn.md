@@ -3,7 +3,7 @@ layout: group_post
 title:  "Jamie M. Wynn"
 date:   2018-06-30 14:16:33 +0100
 categories: current
-posiiton: "Graduate Student"
+position: "Graduate Student"
 photo: "/images/Jamie.png"
 address: "TCM Group, Cavendish Laboratory, 19 JJ Thomson Avenue, Cambridge, CB3 0HE"
 email: "jw870@cam.ac.uk"
