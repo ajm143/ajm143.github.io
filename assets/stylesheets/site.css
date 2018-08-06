@@ -20,6 +20,14 @@ img {
     width: 90%;
 }
 
+.group_photo_box {
+    float: center;
+    background-color: #6699ff;
+    width: 100%;
+    border: 5px solid #6699ff;
+    padding: 5px;
+    margin: 5px;
+}
 .person_box {
     float: center;
     background-color: white;
