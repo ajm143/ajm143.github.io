@@ -6,4 +6,5 @@ categories: news
 photo: "/images/Cpk27.jpg"
 ---
 
-Can attended the 2018 [Physics by the Lake](https://www.physicsbythelake.org/) summer school and won a poster prize for his work on NbO<sub>2</sub> anodes for Li-ion batteries.
+Can attended the 2018 [Physics by the Lake](https://www.physicsbythelake.org/) summer school and won a poster prize for poster "First-Principles Study of Complex Oxides" 
+
