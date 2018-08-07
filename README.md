@@ -11,8 +11,10 @@
 * get back open access locks on publications
 * add twitter account to footer so twitter isnt below image
     * AFH this is <del>impossible</del> improbable
-
-
+* publication list is out of date
+    * ME going to look into using https://github.com/inukshuk/jekyll-scholar so we just have to update a bib file
+    * could be tided into a AJM-group Zotero group?
+   
 # DONE
 
 * Software Section for Spectroscopy
