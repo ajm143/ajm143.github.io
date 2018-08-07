@@ -3,7 +3,10 @@ layout: default
 title: Publications
 category: publications
 ---
-{% assign counter=site.posts.length %}
+
+{% for post in site.categories.CAT %}
+   {% capture counter %} {{ counter | plus: 1 }} {% endcapture %}
+{% endfor %}
 
 {% for post in site.posts %}
   {% if post.categories contains 'publications' %}
