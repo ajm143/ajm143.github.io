@@ -21,6 +21,7 @@ title: Downloads
 * Run on the UK's Tier 1 Supercomputer [ARCHER](http://www.archer.ac.uk/documentation/getting-started/)?
 * Do an NMR Calculation using <a href="http://www.castep.org/"><code>CASTEP</code></a> : [pdf](http://www.tcm.phy.cam.ac.uk/~ajm255/NMR_example.pdf)
 * Give a good answer to an undergraduate question : [pdf](http://www.tcm.phy.cam.ac.uk/~ajm255/good_practice.html)
+* Compile CASTEP on [CSD3, Cambridge](https://github.com/hpc-uk/build-instructions/blob/master/CASTEP/CSD3Skylake_17.2.1_intel17_IMPI.md) 
 
 ## Open-Access Data
 
