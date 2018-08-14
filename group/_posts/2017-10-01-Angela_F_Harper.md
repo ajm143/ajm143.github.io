@@ -4,7 +4,7 @@ title:  "Angela F. Harper"
 date:   2018-06-30 14:16:33 +0100
 categories: current
 photo: "/images/Angela.jpg"
-position: "MPhil Student"
+position: "PhD Student"
 address: "TCM Group, Cavendish Laboratory, Mott building, Room 525"
 telephone: "+44 1223 336073"
 email: "afh41@cam.ac.uk"
