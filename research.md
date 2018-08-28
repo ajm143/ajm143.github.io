@@ -88,4 +88,6 @@ In collaboration with Prof [Jonathan Yates](http://www.materials.ox.ac.uk/people
 
 **Software**
 
-* <a href="http://www.tcm.phy.cam.ac.uk/~ajm255/optados/index.html"><code>OptaDOS</code></a> 
+* <a href="http://www.tcm.phy.cam.ac.uk/~ajm255/optados/index.html"><code>OptaDOS</code></a>
+
+[MSMDG]({{ site.url }}/research/MSMDG.html) 
