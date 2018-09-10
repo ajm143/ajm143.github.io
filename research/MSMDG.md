@@ -18,10 +18,10 @@ All (including undergraduates) welcome.
 
 ### Spring 2019
 
-* 16th January 2019 -
-* 30th January 2019 -
-* 13th February 2019 -
-* 27th February 2019 -
-* 13th March 2019 -
-* 27th March 2019 -
-* 10th April 2019 -
+* 16th January 2019 - (2C28)
+* 30th January 2019 - (2C28)
+* 13th February 2019 - (2C28)
+* 27th February 2019 - (2C28)
+* 13th March 2019 - (2C28)
+* 27th March 2019 - (2C28)
+* 10th April 2019 - (2C28)
