@@ -23,7 +23,8 @@ The project is anticipated to be a mix of code development, high-throughput comp
 The candidate will have a 1st class Undergraduate or Masters degree (or equivalent) in Physics, Chemistry, Materials Science or related discipline. A strong background with programming (e.g. python, Fortran0X, C, C++), solid-state materials or electrochemistry would be advantageous.
 
 Applications must be made through the university's on-line application system[5]: please provide a cover letter summarising your research interests and suitability for the position; the contact details of two people able to provide a letter of reference; and a full curriculum vitae. Please also send a copy of your full application to Andrew Morris directly. 
-Closing date for applications 30th April 2018.
+
+The position will remain open until filled.
 
 Queries may be directed to Andrew Morris: a.j.morris.1@bham.ac.uk. 
 
