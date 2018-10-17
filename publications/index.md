@@ -4,7 +4,7 @@ title: Publications
 category: publications
 ---
 
-{% assign counter = 0 %}
+{% assign counter = 1 %}
 {% for post in site.posts %}
 {% if post.categories contains 'publications' %}
 {% assign counter=counter | plus:1 %}
