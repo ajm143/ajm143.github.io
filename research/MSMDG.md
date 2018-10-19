@@ -16,9 +16,9 @@ All (including undergraduates) welcome.
 * 19th September 2018 - (Canceled due to M&M timetabling clash)
 * 3rd October 2018 - (1C19, Met and Mat) - Open Discussion on the future of MSMDG
 * 18th October 2018 - (Harworth 209A) - Five Minute Round-Table -- Everyone introduces themselves to the group.
-* 1st November 2018 - (2C30)
-* 15th November 2018 - (Harworth 209A)
-* 29th November 2018 - (Harworth 209A)
+* 1st November 2018 - (2C30) - "Modelling Batteries" -- Andrew J. Morris
+* 15th November 2018 - (Harworth 209A) - "TBA" -- Josh
+* 29th November 2018 - (Harworth 209A) - "TBA" -- Dwaipayan Chakrabarti 
 * 13th December 2018 - (Harworth 209A)
 
 ### Spring 2019
