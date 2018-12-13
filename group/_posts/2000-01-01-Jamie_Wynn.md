@@ -1,7 +1,7 @@
 ---
 layout: group_post
 title:  "Jamie M. Wynn (2014-2018)"
-date:   2018-06-30 14:16:33 +0100
+date:   1970-05-30 14:16:33 +0100
 categories: previous
 position: "Graduate Student"
 photo: "/images/Jamie.png"
