@@ -1,6 +1,6 @@
 ---
 layout: group_post
-title:  "Can Kocer"
+title:  "Can Ko&ccedil;er"
 date:   2018-06-30 14:16:33 +0100
 categories: current
 photo: "/images/Cpk27.jpg"
