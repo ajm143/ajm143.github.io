@@ -3,7 +3,7 @@ layout: page
 title: Projects
 ---
 
-[I currently have an open funded PhD studentship position]({{ site.url }}/project_descriptions/PhD_Position_2018) other [PhD funding oppertunities]({{ site.url }}/project_descriptions/funding) are available.
+[I currently have open PhD studentship positions]({{ site.url }}/project_descriptions/PhD_Position_2018), [2]({{ site.url }}/project_descriptions/PhD_Position_Disorder), [3]({{ site.url }}/project_descriptions/PhD_Position_NW) additionally other [PhD funding oppertunities]({{ site.url }}/project_descriptions/funding) are available.
 
 The group is recruiting for graduate students this year (Autumn 2018, January 2019, Autumn 2019). Please see below for three suggested projects.
 
