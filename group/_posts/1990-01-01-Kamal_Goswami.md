@@ -5,10 +5,10 @@ date:   2018-06-30 14:16:33 +0100
 categories: previous
 photo: "/images/Kamal.jpg"
 position: "PDRA"
-address: "School of Metallurgy and Materials, University of Birmingham, Edgbaston, Birmingham B15 2TT, UK"
+address: ""
 email: "kamalnayan.ju@gmail.com"
 skype: "kamal.iisc"
-postmorris: ""
+postmorris: "PDRA at Lancaster University"
 ---
 
 Kamal was in the group as a PDRA at the University of Birmingham. His research focused on ab-initio structure prediction and theoretical spectroscopy to study carbon nanotube (CNT) encapsulated 1D crystals, with an emphasis on systems which undergo structural transitions in response to external stimuli. Thermodynamic and kinetic properties of these transitions will be computed to assess their utility for possible application in nano-mechanical/optical devices, and to identify associated spectroscopic signatures.
