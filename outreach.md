@@ -14,13 +14,15 @@ In 2009 I helped teach GCSE Physics in a secondary school in Cambridge. <br>
 In 2007 and 2008, I taught first-year physics to small groups of students studying at the University of Cambridge.  <br>
 </div>
 
-# 2016
+# Birmingham,
+In March 2019 I presented to [Cafe Scientifique](http://www.cafescientifique.org/index.php?option=com_contentbuilder&title=uk-birmingham&controller=details&id=1&record_id=19&Itemid=478&limitstart=0&filter_order=) at a special meeting at [Soho House](http://www.birminghammuseums.org.uk/soho), the talk was called "Alchemy in the Information: The Batteries of the Future".
+
+# Cambridge
 ![RSS]({{ site.url }}/images/outreach.png){:style="float: right;margin-right: 7px;margin-top: 7px;width: 250px;"}
-During the summer term, I did two further presentations to [Chesterton Community College](http://chestertoncc.net/)'s science club -- the first covered Special Relativity, the second, Quantum Mechanics. 
+During the summer term, I did two further presentations to [Chesterton Community College](http://chestertoncc.net/)'s science club -- the first covered Special Relativity, the second, Quantum Mechanics.
 
 In February [Mike Galtois](http://www.michaelgaultois.com/)  and I went to [Chesterton Community College](http://chestertoncc.net/) and did a demonstration called "Order from Chaos: Cooling off the noise" which we described as "Join Andrew and Mike on a journey of the strange and wonderful world of physics and chemistry outside your comfort zone. We live in a world mostly between 0°C and 30°C, but we'll show you how and why things can get very strange outside of this narrow window. During this exciting and interactive experience, you'll experience flowers that shatter like glass, ceramics that float in the air, and magnets that stop attracting. Explore strange new exotic states of matter, and see just how "cool" Science can be, at temperatures as low as -196°C!"
 
-# Recent
 
 In April 2015 I gave a presentation to the [Bolsover Amateur Radio Society](http://www.g4rsb.org.uk/)  about "Bayesian Inference: Making the best guess" then in May I visited the Science Club at [Chesterton Community College](http://chestertoncc.net/) , Cambridge and gave a presentation called "Physics: Modelling the World Around".
 
@@ -54,4 +56,3 @@ I'm keen to speak to School Science clubs on a range of accessible topics such a
 * What's inside Jupiter?: And how do we know?
 * Moving clocks tick slower: Special relativity -- how and why?
 * The Reverse-Brazil nut effect: What happens when you shake a box of mixed nuts, a packet of cereal or pan for gold.
-
