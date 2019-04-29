@@ -1,0 +1,65 @@
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bold {
+  font-weight:bold;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+
+.group_photo_box {
+    float: center;
+    background-color: #6699ff;
+    width: 100%;
+    border: 5px solid #6699ff;
+    padding: 5px;
+    margin: 5px;
+}
+.person_box {
+    float: center;
+    background-color: white;
+    width: 100%;
+    border: 5px solid grey;
+    padding: 5px;
+    margin: 5px;
+}
+
+.news_box {
+    float: center;
+    background-color: lightgrey;
+    width: 100%;
+    border-left: 10px solid lightblue;
+    padding: 5px;
+    margin: 5px;
+    box-sizing: border-box
+}
+
+.prev_person_box {
+    float: center;
+    background-color: lightorange;
+    width: 100%;
+    border: 5px dashed grey;
+    padding: 5px;
+    margin: 5px;
+}
+.crest img {
+  float: left;
+  width: auto;
+  height: 100px;
+  background: white;
+}
+
+.crest h1 {
+  position: relative;
+  font-size: 40px;
+  top: 10px;
+  left: 10px;
+}
