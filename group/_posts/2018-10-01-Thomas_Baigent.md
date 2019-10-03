@@ -2,7 +2,7 @@
 layout: group_post
 title:  "Thomas Baigent"
 date:   2018-10-01 14:16:33 +0100
-categories: current
+categories: previous
 photo: "/images/ThomasB.jpg"
 position: "Undergraduate Student"
 address: "1D27,  School of Metallurgy and Materials,  University of Birmingham  Edgbaston  Birmingham  B15 2TT  UK" 
