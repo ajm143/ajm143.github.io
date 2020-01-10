@@ -7,7 +7,8 @@
 <img src=" {{ include.photo }}" style="border:5px solid lightgrey" height="150" width=auto alt=" {{ include.title }} class="center">
 </div>
 
-    <h3>{{ include.date | date: '%d %B %Y' }} <a href="{{ include.url }}">{{ include.title }}</a></h3>
+    <h3><a href="{{ include.url }}">{{ include.title }}</a></h3>
+        {{ include.date | date: '%d %B %Y' }} 
 	    <div class="entry">
 			{{ include.content| truncatewords: 50 }}
 		</div>
