@@ -4,15 +4,15 @@
 
 
 <div style="float:left">
-<img src=" {{ include.photo }}" style="border-right:5px solid lightgrey" height="150" width=auto alt=" {{ include.title }} class="center">
+<img src=" {{ include.photo }}" style="border:5px solid lightgrey" height="150" width=auto alt=" {{ include.title }} class="center">
 </div>
 
     <h3>{{ include.date | date: '%d %B %Y' }} <a href="{{ include.url }}">{{ include.title }}</a></h3>
 	    <div class="entry">
-			{{ include.content| truncatewords: 100 }}
+			{{ include.content| truncatewords: 50 }}
 		</div>
         {% assign wordCount = include.content | number_of_words %}
-        {% if wordCount < 100 %}
-            <br><br><br>
+        {% if wordCount < 50 %}
+            <br>
         {% endif %}
 </div>
