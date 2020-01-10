@@ -47,6 +47,16 @@ img {
     box-sizing: border-box
 }
 
+.announce_box {
+    float: center;
+    background-color: lightblue;
+    width: 100%;
+    border: 10px solid mediumaquamarine;
+    padding: 5px;
+    margin: 5px;
+    box-sizing: border-box
+}
+
 .prev_person_box {
     float: center;
     background-color: lightorange;
