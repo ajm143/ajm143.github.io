@@ -12,6 +12,7 @@ I am quite prepared to help strong candidates to apply for funding. Designing a 
 * [Marshall Scholarships](http://www.marshallscholarship.org)
 * [Commonwealth](http://cscuk.dfid.gov.uk/apply/scholarships-developed-cw/)
 * [Fullbright](http://www.fulbright.org.uk/going-to-the-uk/postgraduate-student-awards)
+* [Roberto Rocca](http://www.robertorocca.org/en/scholarships.aspx) 
 * Birmingham's Global Challenge Scheme
 * Joint with the University of Melbourne [UoB/Melbourne Priestley Scholarships](https://www.birmingham.ac.uk/postgraduate/pgr/melbourne-joint-phds.aspx)
 * Joint with SUSTech – [South China University of Science and Technology](http://www.sustc.edu.cn/en/faculty_56)
