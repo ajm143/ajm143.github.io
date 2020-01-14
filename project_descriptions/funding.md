@@ -21,3 +21,9 @@ I am always interested in discussing project with strong candidates that have th
 
 Indicate me as your preference of supervisor on the application form.
 
+### Post-Doctoral
+
+* [Leverhulme] (https://www.leverhulme.ac.uk/early-career-fellowships) Deadline: 27 February 2020
+* [EPSRC] (https://epsrc.ukri.org/skills/fellows/overview/) Rolling
+* [UKRI Future Leader) (https://www.ukri.org/funding/funding-opportunities/future-leaders-fellowships/) (Previously April and September)
+* [Royal Society URF] (https://royalsociety.org/grants-schemes-awards/grants/university-research/) (Opens July -- Deadline normally ealy Sept) 
