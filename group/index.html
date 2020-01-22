@@ -18,7 +18,7 @@ category: group
   {% if post.categories contains 'current' %}
         <div class="post">
 
-{% include person_box.html url = post.url title = post.title photo=post.photo position=post.position address=post.address telephone=post.telephone email=post.email skype=post.skype twitter=post.twitter %}
+{% include person_box.html url = post.url title = post.title photo=post.photo position=post.position website=post.website address=post.address telephone=post.telephone email=post.email skype=post.skype twitter=post.twitter %}
 
 
 	    </div>
@@ -32,7 +32,7 @@ category: group
   {% if post.categories contains 'previous' %}
         <div class="post">
 
-{% include prev_person_box.html postmorris=post.postmorris url = post.url title = post.title photo=post.photo position=post.position address=post.address telephone=post.telephone email=post.email skype=post.skype twitter=post.twitter %}
+{% include prev_person_box.html postmorris=post.postmorris url = post.url title = post.title photo=post.photo position=post.position website=post.website address=post.address telephone=post.telephone email=post.email skype=post.skype twitter=post.twitter %}
 
 
         </div>
