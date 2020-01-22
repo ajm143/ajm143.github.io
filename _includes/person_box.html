@@ -10,15 +10,22 @@
 <h1 class="title"><a href="{{ include.url }}">{{ include.title }}</a></h1>
 
 <p><span class="bold">Position:</span> {{ include.position }} </p>
-
+{% if include.website != null %}
+<p><span class="bold">Website:</span> <a href={{ include.website }}></a> </p>
+{% endif %}
+{% if include.address != null %}
 <p><span class="bold">Address:</span>  {{ include.address }} </p>
-
+{% endif %}
+{% if include.telephone != null %}
 <p><span class="bold">Telephone:</span>  {{ include.telephone }} </p>
-
-<p><span class="bold">E-mail:</span>  {{ include.email }} </p>
-
+{% endif %}
+{% if include.email != null %}
+<p><span class="bold">E-mail:</span> {{ include.email }}</p>
+{% endif %}
+{% if include.skype != null %}
 <p><span class="bold">Skype:</span>  {{ include.skype }} </p>
-
-<p><span class="bold">Twitter:</span>  {{ include.twitter }} </p>
-
+{% endif %}
+{% if include.twitter != null %}
+<p><span class="bold">Twitter:</span>  <a href="https://twitter.com/{{ include.twitter }}">{{ include.twitter }}</a></p>
+{% endif %}
 </div>
