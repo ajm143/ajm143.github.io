@@ -1,7 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
 html {
 	background-color: #F3F5F6;
 	color: #000;
-  font-family: helvetica, arial, sans-serif;
+  font-family: helvetica, "Roboto", arial, sans-serif;
 }
 nav {
   background-color: rgba(21, 21, 23, 0.95);
