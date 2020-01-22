@@ -11,21 +11,33 @@
 
 <p><span class="bold">Position:</span> {{ include.position }} </p>
 {% if include.website != null %}
+{% if include.website.size > 0 %}
 <p><span class="bold">Website:</span> <a href={{ include.website }}></a> </p>
 {% endif %}
+{% endif %}
 {% if include.address != null %}
+{% if include.address.size > 0 %}
 <p><span class="bold">Address:</span>  {{ include.address }} </p>
 {% endif %}
+{% endif %}
 {% if include.telephone != null %}
+{% if include.telephone.size > 0 %}
 <p><span class="bold">Telephone:</span>  {{ include.telephone }} </p>
 {% endif %}
+{% endif %}
 {% if include.email != null %}
+{% if include.email.size > 0 %}
 <p><span class="bold">E-mail:</span> {{ include.email }}</p>
 {% endif %}
+{% endif %}
 {% if include.skype != null %}
+{% if include.skype.size > 0 %}
 <p><span class="bold">Skype:</span>  {{ include.skype }} </p>
 {% endif %}
+{% endif %}
 {% if include.twitter != null %}
+{% if include.twitter.size > 0 %}
 <p><span class="bold">Twitter:</span>  <a href="https://twitter.com/{{ include.twitter }}">{{ include.twitter }}</a></p>
+{% endif %}
 {% endif %}
 </div>
