@@ -19,8 +19,6 @@ The contents of this repository are licensed under the [Apache
 - people can give me better figures
 - transparency on figures
 - make a new research page
-- add andrews email and remove google scholar
-- possibly change google --> google scholar but this is hard
 - MAYBE make the top figure a carousel
 - un-center text on people page
 - make an Andrew Morris page with his outreach/teaching etc. on that page

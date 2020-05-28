@@ -958,6 +958,8 @@ img {
 }
 .img-circle {
   border-radius: 50%;
+  width: 50%;
+  height: auto;
 }
 hr {
   margin-top: 20px;
