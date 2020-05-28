@@ -17,7 +17,6 @@ The contents of this repository are licensed under the [Apache
 - make smaller circles for people
 - use matts page for the open access stuff
 - people can give me better figures
-- fix the services buttons at the bottom
 - transparency on figures
 - make a new research page
 - add andrews email and remove google scholar
