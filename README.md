@@ -13,10 +13,7 @@ The contents of this repository are licensed under the [Apache
 
 
 # TODO
-- fix bolding on publications
 - Tomeu group website look at this for publications
-- 404 file not found for first open access page
-- needs to be all pushed to 
 - make smaller circles for people
 - use matts page for the open access stuff
 - people can give me better figures
