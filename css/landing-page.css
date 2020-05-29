@@ -35,6 +35,15 @@ h6 {
     background-size: cover;
 }
 
+.pubs-header {
+    padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
+    padding-bottom: 20px;
+    text-align: center;
+    color: #3a3011;
+    background: url(../images/nanotube-paulo.jpeg) no-repeat center center;
+    background-size: cover;
+}
+
 .intro-message {
     position: relative;
     padding-top: 20%;
