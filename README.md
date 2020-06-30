@@ -16,10 +16,11 @@ The contents of this repository are licensed under the [Apache
 - Tomeu group website look at this for publications
 - use matts page for the open access stuff
 - people can give me better figures
-- transparency on figures (not sure what this means)
 - make a new research page
-- MAYBE make the top figure a carousel
 - make an Andrew Morris page with his outreach/teaching etc. on that page
+
+# Done
 - Code page has Theses on it which aren't code...maybe call that page downloads
-- Materials Modelling of Energy Materials
-- look at bolding?? apparently research pages are bold
+
+# Will not be doing
+- MAYBE make the top figure a carousel
