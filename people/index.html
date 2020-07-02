@@ -123,128 +123,51 @@ title: People
 <h1 class="section-heading">Current Group Members</h1>
 {% for post in site.posts %}
 {% if post.categories contains 'current' %}
-  {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
-    {% if thecycle == 'odd' %}
-    <div class="content-section-a">
-
-        <div class="container">
-
-            <div class="row">
-                <div class="col-lg-5 col-sm-6">
-                    <hr class="section-heading-spacer">
-                    <div class="clearfix"></div>
-                    <h2 class="section-heading">{{ post.title }}<h3>{{post.position}}</h3></h2>
+    <div class="row service-wrapper-row">
+            <div class="col-sm-4">
+                    <div class="service-image">
+                            <img src="../{{ post.photo }}">
+                    </div>
+            </div>
+            <div class="col-sm-8">
+                    <h3>{{ post.title }}</h3>
+                    <p>{{ post.position }}<br>
+                    <p><b></b> {{ post.email }}<br></p>
+            </div>
+            <div class="col-sm-6">
                     <div class="lead">
                     {{ post.content }}
                     </div>
-                </div>
-                <div class="col-lg-5 col-lg-offset-2 col-sm-6">
-                    <!-- again this is really bad to just put brs there -->
-                    <br><br><br>
-                    <br><br>
-                    <img class="img-responsive img-circle" src="../{{ post.photo }}" alt="">
-                </div>
             </div>
-
-        </div>
-        <!-- /.container -->
-
     </div>
-    <!-- /.content-section-a -->
-    {% else %}
+            <br>
+            <br>
 
-    <div class="content-section-b">
-
-        <div class="container">
-
-            <div class="row">
-                <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
-                    <hr class="section-heading-spacer">
-                    <div class="clearfix"></div>
-                    <h2 class="section-heading">{{ post.title }}<h3>{{post.position}}</h3></h2>
-                    <div class="lead">
-                    {{ post.content }}
-                    </div>
-                </div>
-                <div class="col-lg-5 col-sm-pull-6  col-sm-6">
-                    <br><br><br>
-                    <br><br>
-                    <img class="img-responsive img-circle" src="../{{ post.photo }}" alt="">
-                </div>
-            </div>
-
-        </div>
-        <!-- /.container -->
-
-    </div>
-    <!-- /.content-section-b -->
-    {% endif %}
     {% endif %}
 {% endfor %}
 </section>
 
-<section id="previous" class="container content-section text-center">
+<section id="previous" class="container content-section">
 <hr class="section-heading-spacer">
 <div class="clearfix"></div>
 <h1 class="section-heading">Previous Group Members</h1>
 {% for post in site.posts %}
 {% if post.categories contains 'previous' %}
-  {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
-    {% if thecycle == 'odd' %}
-    <div class="content-section-a">
-
-        <div class="container">
-
-            <div class="row">
-                <div class="col-lg-5 col-sm-6">
-                    <hr class="section-heading-spacer">
-                    <div class="clearfix"></div>
-                    <h2 class="section-heading">{{ post.title }}<h3>{{post.postmorris}}</h3></h2>
-                    <div class="lead">
-                    {{ post.content }}
+    <div class="row service-wrapper-row">
+            <div class="col-sm-4">
+                    <div class="service-image">
+                            <img class="img-responsive" src="../{{ post.photo }}">
                     </div>
-                </div>
-                <div class="col-lg-5 col-lg-offset-2 col-sm-6">
-                    <!-- again this is really bad to just put brs there -->
-                    <br><br><br>
-                    <br><br>
-                    <img class="img-responsive img-circle" src="../{{ post.photo }}" alt="">
-                </div>
             </div>
-
-        </div>
-        <!-- /.container -->
-
-    </div>
-    <!-- /.content-section-a -->
-    {% else %}
-
-    <div class="content-section-b">
-
-        <div class="container">
-
-            <div class="row">
-                <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
-                    <hr class="section-heading-spacer">
-                    <div class="clearfix"></div>
-                    <h2 class="section-heading">{{ post.title }}<h3>{{post.postmorris}}</h3></h2>
-                    <div class="lead">
-                    {{ post.content }}
-                    </div>
-                </div>
-                <div class="col-lg-5 col-sm-pull-6  col-sm-6">
-                    <br><br><br>
-                    <br><br>
-                    <img class="img-responsive img-circle" src="../{{ post.photo }}" alt="">
-                </div>
+            <div class="col-sm-8">
+                    <h3>{{ post.title }}</h3>
+                    <p>{{ post.postmorris }}<br>
+                    <p><b></b> {{ post.email }}<br></p>
             </div>
-
-        </div>
-        <!-- /.container -->
-
     </div>
-    <!-- /.content-section-b -->
-    {% endif %}
+            <br>
+            <br>
+
     {% endif %}
 {% endfor %}
 </section>
