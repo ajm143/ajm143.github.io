@@ -21,6 +21,7 @@ The contents of this repository are licensed under the [Apache
 
 # Done
 - Code page has Theses on it which aren't code...maybe call that page downloads
+- people page looks nice now
 
 # Will not be doing
 - MAYBE make the top figure a carousel
