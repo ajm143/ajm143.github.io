@@ -1,4 +1,4 @@
-#AJM Group Website 
+# AJM Group Website 
 
 This is the group website of Dr. Andrew J. Morris a Senior Birmingham Fellow at the University of Birmingham UK.
 
