@@ -4,6 +4,7 @@ date:   2018-10-01 14:16:33 +0100
 categories: current
 photo: "/images/jord.png"
 position: "PhD Student"
+project: "AIRSS on Li-ion cathodes"
 address: "1B20,  School of Metallurgy and Materials,  University of Birmingham  Edgbaston  Birmingham  B15 2TT  UK"
 telephone: ""
 email: "JXD930@bham.ac.uk"

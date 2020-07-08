@@ -1,5 +1,5 @@
 ---
-title:  "Thomas Baigent"
+title:  "Thomas Baigent (2018-2019)"
 date:   2018-10-01 14:16:33 +0100
 categories: previous
 photo: "/images/ThomasB.jpg"
