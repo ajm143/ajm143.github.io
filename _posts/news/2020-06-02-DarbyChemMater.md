@@ -1,6 +1,6 @@
 ---                                                                                                                                                                                      
 categories: news                                                                                                                                                                 
-date:  2020-04-27 00:00:01 +0000                                                                                                                                                        
+date:  2020-06-02 00:00:01 +0000                                                                                                                                                        
 title: "James Darby published a new structure prediction method WAM in Chemistry of Materials"
 
 photo: "images/cm0c01737_0007.gif"

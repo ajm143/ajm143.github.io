@@ -1,6 +1,6 @@
 ---                                                                                                                                                                                      
 categories: news                                                                                                                                                                 
-date:  2020-04-27 00:00:01 +0000                                                                                                                                                        
+date:  2020-06-25 00:00:01 +0000                                                                                                                                                        
 title: "Angela Harper published an article in Chemistry of Materials"
 
 photo: "images/harper-cup-toc.png"
