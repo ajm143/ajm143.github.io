@@ -50,3 +50,57 @@ I then spent three years as a research associate with Prof. Chris Pickard's grou
 In 2012 I moved to the Cavendish laboratories at The University of Cambridge, as an independent Winton Fellow, then in 2017 I moved to Birmingham.
 
 My full CV is available on request.
+
+## Teaching ##
+
+
+<div style="float: center; background: lightgrey; border-radius: 10px; border: 10px solid lightgrey;text-align: justify" >
+<div style="float: center; text-align: center"><h2>University of Birmingham</h2></div>
+<h3><strong>3<sup>rd</sup>/4<sup>th</sup> Year Materials & Physics <br> <em>Undergraduate Final-Year Projects</em></strong></h3>
+<div style="float: center; background: white; border-radius: 10px; border: 10px solid white ;text-align: justify" >
+My research group can take one or two students for the 2018/2019 cycle. We'd love to hear from motivated Met & Mat and Physics students. Please see some the proposals list on the <a href="/projects">projects</a> page for project suggestions. Projects can be tailored to individual students interests.
+</div>
+
+
+<h3><strong>2<sup>nd</sup> Year Physics <br> <em>"A Quantum Approach to Solids"</em></strong></h3>
+
+The course is split into three unequal parts. In the first part, we discuss how to model a solid using ideas from crystallography. Next we look at various models for vibrations in solids, where we can see how these models fare describing the  experimentally measured heat capacity. Finally, we discus the free electron and nearly-free electron model to understand the behaviour of metals, insulators and semiconductors.
+<br><br>
+See the <a href="https://canvas.bham.ac.uk/courses/29009">canvas page</a> for more details.
+
+
+<h3><strong>2<sup>nd</sup> Year Materials <br> <em>"Frontiers of Materials Science"</em></strong></h3>
+
+I am joint module co-ordinator of this course along with Biao Cai and David Collins. The course comprises a series of mini lecture courses on a variety of cutting edge research topics within Met & Mat.
+<br><br>
+As part of the course I present a mini-lecture course on <em>Materials Modelling the Next Generation of Lithium-Ion Batteries</em>.
+
+<h3><strong>1st Year Materials <br> <em>Data Analysis</em></strong></h3>
+
+The course is under construction. It will tentatively contain a discussion of basic data analysis techniques, with lots of examples of how data analysis can go wrong.
+
+<h3><strong>1st Year Tutorials</strong></h3>
+
+I tutor first year Nuclear Physics students.
+
+<div style="float: center; text-align: center"><h2>University of Cambridge</h2></div>
+<h3><strong>IA <br> <em>Physics</em></strong></h3>
+
+I was supervisor for first year physics. The course contained Classical Mechanics, Introduction to Thermodynamics, Introduction to Quantum Physics, Special Relativity
+
+One of the skills of solving problems in physics is to think on paper. The tidier you are, and the clearer your diagrams, the easier you will find it to answer problems. Make it easy for the marker to give you the marks. See my [Good Practice guide for solving problems](http://www.tcm.phy.cam.ac.uk/~ajm255/good_practice.html).
+
+<h3><strong>Graduate <br> <em>Electronic Structure Course</em></strong></h3>
+
+In its broadest sense my research is all about how electrons behave in solids and what we can learn from this.  As such I frequently give lectures on Electronic Structure and the computer codes that we use to perform the calculations.
+
+Here is an an example of using the DFT code CASTEP's NMR functionality from the very beginning [pdf](http://www.tcm.phy.cam.ac.uk/~ajm255/NMR_example.pdf).
+
+
+<div style="float: center; text-align: center"><h2>University College London</h2></div>
+
+At UCL I supervised problem solving classes:
+
+* **Mathematical Methods I (PHAS1245)** Vector Algebra, Complex Numbers, Integration Techniques
+* **Mathematical Methods II** 1st and 2nd Order O.D.E.s, Line, Area and Volume Integrals, Vector Spaces, Matrices and Transformations, Introduction to Special Relativity.
+</div>
