@@ -58,7 +58,7 @@ My full CV is available on request.
 <div style="float: center; text-align: center"><h2>University of Birmingham</h2></div>
 <h3><strong>3<sup>rd</sup>/4<sup>th</sup> Year Materials & Physics <br> <em>Undergraduate Final-Year Projects</em></strong></h3>
 <div style="float: center; background: white; border-radius: 10px; border: 10px solid white ;text-align: justify" >
-My research group can take one or two students for the 2018/2019 cycle. We'd love to hear from motivated Met & Mat and Physics students. Please see some the proposals list on the <a href="/projects">projects</a> page for project suggestions. Projects can be tailored to individual students interests.
+My research group can take one or two students for the 2018/2019 cycle. We'd love to hear from motivated Met & Mat and Physics students. Please see some of the proposals listed on the <a href="../../research/index.html">research</a> page for project suggestions. Projects can be tailored to individual student's interests.
 </div>
 
 
