@@ -3,7 +3,7 @@ categories: news
 date:  2020-10-27 00:00:01 +0000                                                                                                                                                        
 title: "Matthew Evans published Matador in the Journal of Open Source Software"
 
-photo: "images/Matador_JOSS.png"
+photo: "images/Matador_JOSS.PNG"
 
 ---            
 
