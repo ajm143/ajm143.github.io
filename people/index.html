@@ -30,9 +30,6 @@ title: People
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">  
                 <li>
-                    <a class="page-scroll" href="#andrew">Andrew</a>
-                </li>
-                <li>
                     <a class="page-scroll" href="#current">Current Group</a>
                 </li>
                 <li>
@@ -53,7 +50,10 @@ title: People
                 <li>
                     <a href="../research/index.html">Research</a>
                 </li>
-                <li>
+				<li>
+                    <a href="../teaching/index.html">Teaching</a>
+                </li>
+				<li>
                     <a href="../downloads/index.html">Downloads</a>
                 </li>
                 <li>
@@ -121,7 +121,7 @@ title: People
 <hr class="section-heading-spacer">
 <div class="clearfix"></div>
 <h1 class="section-heading">Current Group Members</h1>
-{% for post in site.posts %}
+{% for post in site.posts reversed %}
 {% if post.categories contains 'current' %}
     <div class="row service-wrapper-row">
             <div class="col-sm-4">

@@ -12,4 +12,4 @@ twitter: ""
 ---
 I am a Nuclear Engineering student (MEng) at the University of Birmingham, now working in the Morris Group as a summer intern between my third and final year of study.
 
-My research will focus on machine learning potentials and their appliation in  high throughput computational modelling of systems relevant to battery cell materials.
+My research focuses on machine learning potentials and their appliation in  high throughput computational modelling of systems relevant to battery cell materials.
