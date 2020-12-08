@@ -3,7 +3,7 @@ title:  "James Darby"
 date:   2018-06-30 14:16:33 +0100
 categories: current
 photo: "/images/Jpd47TCM_mug_shot.jpg"
-position: "PhD Student"
+position: "Visiting Post Doctoral Research Associate <br> Former PhD Student (2016-2020)"
 address: "TCM Group, Cavendish Laboratory, Mott building, Room 525"
 email: "jpd47@cam.ac.uk"
 ---

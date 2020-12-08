@@ -3,7 +3,7 @@ title:  "Chris Owen"
 date:   2018-10-01 14:16:33 +0100
 categories: current
 photo: "/images/Chris.png"
-position: "Summer Intern"
+position: "Master's Student"
 address: ""
 telephone: ""
 email: "cbo738@student.bham.ac.uk"
