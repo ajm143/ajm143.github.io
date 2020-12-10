@@ -95,7 +95,7 @@ title: News
                 <div class="col-lg-5 col-sm-6">
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading">{{ post.title }}<h3>{{post.date | date: '%d %B %Y'}}</h3></h2>
+                    <h2 class="section-heading"><a id="{{ post.title }}">{{ post.title }}</a><h3>{{post.date | date: '%d %B %Y'}}</h3></h2>
                     <div class="lead">
                     {{ post.content }}
                     </div>
@@ -123,7 +123,7 @@ title: News
                 <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading">{{ post.title }}<h3>{{post.date | date: '%d %B %Y'}}</h3></h2>
+                    <h2 class="section-heading"><a id="{{ post.title }}">{{ post.title }}</a><h3>{{post.date | date: '%d %B %Y'}}</h3></h2>
                     <div class="lead">
                     {{ post.content }}
                     </div>
