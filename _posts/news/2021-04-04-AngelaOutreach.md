@@ -1,6 +1,6 @@
 ---                                                                                                                                                                                      
 categories: news                                                                                                                                                                 
-date:  2020-01-10 00:00:01 +0000                                                                                                                                                        
+date:  2021-04-04 00:00:01 +0000                                                                                                                                                        
 title: "Angela discusses how to use computational physics to study Li-ion batteries at CamFest"
 
 photo: "images/cropafh.jpg"
