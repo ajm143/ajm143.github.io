@@ -14,7 +14,7 @@ twitter: "@condensedmatter"
 <div style="float:left; border-width: medium">
 
 <br/>
-<a href="http://orcid.org/0000-0001-7453-5698"> <img width="120px" alt="ORCID Logo" src="/images/ORCID_logo.jpg"></a>
+<a href="http://orcid.org/0000-0001-7453-5698"> <img alt="ORCID Logo" src="/images/ORCID_logo_120px.png"></a>
 <br/>
 <a href="https://uk.linkedin.com/pub/andrew-morris/24/830/968">
           <img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_myprofile_160x33.png" width="160" height="33" border="0" alt="View Andrew Morris's profile on LinkedIn"/>
