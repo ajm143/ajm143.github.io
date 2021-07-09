@@ -3,7 +3,7 @@ title:  "Hrishit Banerjee"
 date:   2000-01-01 12:00:00 +0100
 categories: current
 photo: "/images/Hrishit.jpg"
-position: "Research Associate"
+position: "Post Doctoral Research Assistant"
 address: ""
 telephone: ""
 email: "hb595@cam.ac.uk"

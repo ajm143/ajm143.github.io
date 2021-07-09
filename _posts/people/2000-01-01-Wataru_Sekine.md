@@ -3,7 +3,7 @@ title:  "Wataru Sekine"
 date:   2000-01-01 12:00:00 +0100
 categories: current
 photo: "/images/wataru_portrait.jpg"
-position: ""
+position: "Visiting Industrial Researcher"
 address: ""
 telephone: ""
 email: "W.Sekine@bham.ac.uk"
