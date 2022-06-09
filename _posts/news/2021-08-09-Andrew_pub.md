@@ -1,0 +1,10 @@
+---                                                                                                                                                                                      
+categories: news                                                                                                                                                                 
+date:  2021-10-08 00:00:01 +0000                                                                                                                                                        
+title: "Dr Morris published an article in ACS Publications"
+
+photo: "images/optical_properties.gif"
+
+---
+One-dimensional (1D) atomic chains of CsI were previously reported in double-walled carbon nanotubes with ∼0.8 nm inner diameter. Here, we demonstrate that, while 1D CsI chains form within narrow ∼0.73 nm diameter single-walled carbon nanotubes (SWCNTs), wider SWCNT tubules (∼0.8–1.1 nm) promote the formation of helical chains of CsI 2 × 1 atoms in cross-section. These CsI helices create complementary oval distortions in encapsulating SWCNTs with highly strained helices formed from strained Cs2I2 parallelogram units in narrow tubes to lower strain Cs2I2 units in wider tubes. The observed structural changes and charge distribution were analyzed by density-functional theory and Bader analysis. CsI chains also produce conformation-selective changes to the electronic structure and optical properties of the encapsulating tubules. The observed defects are an interesting variation from defects commonly observed in alkali halides as these are normally associated with the Schottky and Frenkel type. The energetics of CsI 2 × 1 helix formation in SWCNTs suggests how these could be controllably formed.
+[Full Article](https://pubs.acs.org/doi/10.1021/acsnano.1c03705)
