@@ -1,7 +1,7 @@
 ---                                                                                                                                                                                      
 categories: news                                                                                                                                                                 
 date:  2021-10-08 00:00:01 +0000                                                                                                                                                        
-title: "Dr Morris published an article in ACS Publications"
+title: "Andrew published an article in ACS Publications"
 
 photo: "images/optical_properties.gif"
 
