@@ -13,21 +13,23 @@ twitter: "@condensedmatter"
 
 <div style="float:left; border-width: medium">
 
+<a href="http://orcid.org/0000-0001-7453-5698"> <img alt="ORCID Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/ORCID_logo.svg/2560px-ORCID_logo.svg.png" width="160" height="50"></a>
 <br/>
-<a href="http://orcid.org/0000-0001-7453-5698"> <img alt="ORCID Logo" src="/images/ORCID_logo_120px.png"></a>
 <br/>
 <a href="https://uk.linkedin.com/pub/andrew-morris/24/830/968">
-          <img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_myprofile_160x33.png" width="160" height="33" border="0" alt="View Andrew Morris's profile on LinkedIn"/>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1280px-LinkedIn_Logo.svg.png" width="160" height="33" border="0" alt="View Andrew Morris's profile on LinkedIn"/>
         
     </a>
 <br/>
-<a href="http://scholar.google.co.uk/citations?user=HWPGn8oAAAAJ"> <img width="120px" alt="Google Scholar Logo" src="http://scholar.google.co.uk/intl/en/scholar/images/scholar_logo_lg_2011.gif"/></a>
+<br/>
+<a href="http://scholar.google.co.uk/citations?user=HWPGn8oAAAAJ"> <img width="160" alt="Google Scholar Logo" src="https://scholar.google.com/intl/en/scholar/images/1x/scholar_logo_64dp.png"/></a>
+<br/>
 <br/>
 <a href="{{ site.url }}/group/AJM_talks.html">Talks Given</a>
 </div>
 
-<div style="float:right; border-width: medium">
-  <img class="img-responsive img-rounded" src="../images/Andrew.png" alt="">
+<div style="float:right; border-width: small">
+  <img class="img-responsive img-rounded" src="../images/Andrew.png" width="160" alt="">
 </div>
 I am a [Senior Birmingham Fellow](https://www.birmingham.ac.uk/staff/excellence/fellows/index.aspx) in the [School of Metallurgy and Materials](https://www.birmingham.ac.uk/research/activity/metallurgy-materials/index.aspx) at The [University of Birmigham](https://www.birmingham.ac.uk/index.aspx). I hold visiting positions at both the [Univeristy of Warwick](https://www.warwick.ac.uk) and the [University of Cambridge](http://www.cam.ac.uk).
 
