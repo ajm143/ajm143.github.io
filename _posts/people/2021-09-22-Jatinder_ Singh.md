@@ -1,9 +1,9 @@
 ---
 title:  "Jatinder Singh"
 date:   2021-09-01 14:16:33 +0100
-categories: current
+categories: previous
 photo: "/images/Jatinder.jpg"
-position: "Masters’ Student, Nuclear Engineering "
+postmorris: "PhD in Topological Design Birmingham <br> Former Masters’ Student, Nuclear Engineering "
 project: ""
 address: ""
 telephone: ""

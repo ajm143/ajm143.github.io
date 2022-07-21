@@ -1,9 +1,9 @@
 ---
 title:  "Monthakan Lertkiattrakul"
 date:   2021-09-01 14:16:33 +0100
-categories: current
+categories: previous
 photo: "/images/Monthakan.png"
-position: "Undergraduate"
+postmorris: "Part III Student BEng Materials Science and Engineering"
 project: ""
 address: ""
 telephone: ""
