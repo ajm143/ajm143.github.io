@@ -11,25 +11,9 @@ skype: "ajm143"
 twitter: "@condensedmatter"
 ---
 
-<div style="float:left; border-width: medium">
 
-<a href="http://orcid.org/0000-0001-7453-5698"> <img alt="ORCID Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/ORCID_logo.svg/2560px-ORCID_logo.svg.png" width="160" height="50"></a>
-<br/>
-<br/>
-<a href="https://uk.linkedin.com/pub/andrew-morris/24/830/968">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1280px-LinkedIn_Logo.svg.png" width="160" height="33" border="0" alt="View Andrew Morris's profile on LinkedIn"/>
-        
-    </a>
-<br/>
-<br/>
-<a href="http://scholar.google.co.uk/citations?user=HWPGn8oAAAAJ"> <img width="160" alt="Google Scholar Logo" src="https://scholar.google.com/intl/en/scholar/images/1x/scholar_logo_64dp.png"/></a>
-<br/>
-<br/>
-<a href="{{ site.url }}/group/AJM_talks.html">Talks Given</a>
-</div>
-
-<div style="float:right; border-width: small">
-  <img class="img-responsive img-rounded" src="../images/Andrew.png" width="160" alt="">
+<div style="float:right; padding: 50px;">
+  <img class="img-responsive img-rounded" src="../images/Andrew.png" width="180" alt="">
 </div>
 I am a [Senior Birmingham Fellow](https://www.birmingham.ac.uk/staff/excellence/fellows/index.aspx) in the [School of Metallurgy and Materials](https://www.birmingham.ac.uk/research/activity/metallurgy-materials/index.aspx) at The [University of Birmigham](https://www.birmingham.ac.uk/index.aspx). I hold visiting positions at both the [Univeristy of Warwick](https://www.warwick.ac.uk) and the [University of Cambridge](http://www.cam.ac.uk).
 
@@ -39,6 +23,43 @@ I use global search techniques such as ab initio random structure searching (AIR
 
 I am currently looking for PhD and Masters project students.
 
+<div class='col-lg-offset-0' style="float:left; border-width: medium">
+
+<a href="http://orcid.org/0000-0001-7453-5698"> <img alt="ORCID Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/ORCID_logo.svg/2560px-ORCID_logo.svg.png" height="30"></a>
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+<a href="https://uk.linkedin.com/pub/andrew-morris/24/830/968">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1280px-LinkedIn_Logo.svg.png" height="30" border="0" alt="View Andrew Morris's profile on LinkedIn"/>
+        
+    </a>
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+<a href="http://scholar.google.co.uk/citations?user=HWPGn8oAAAAJ"> <img height="30" alt="Google Scholar Logo" src="https://scholar.google.com/intl/en/scholar/images/1x/scholar_logo_64dp.png"/></a>
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+<a href="{{ site.url }}/group/AJM_talks.html">Talks Given</a>
+</div>
+<br>
+<br>
 ## Background ##
 
 My first degree was an M.Phys. (4 year) in Theoretical Physics at the University of York. My final year project was titled Vertex Corrections in Many-Body Perturbation Theory. I worked with Rex Godby's group.
@@ -52,3 +73,4 @@ I then spent three years as a research associate with Prof. Chris Pickard's grou
 In 2012 I moved to the Cavendish laboratories at The University of Cambridge, as an independent Winton Fellow, then in 2017 I moved to Birmingham.
 
 My full CV is available on request.
+
