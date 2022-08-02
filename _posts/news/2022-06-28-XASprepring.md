@@ -1,6 +1,6 @@
 ---                                                                                                                                                                                      
 categories: news                                                                                                                                                                 
-date:  2022-08-01 00:00:05 +0000                                                                                                                                                        
+date:  2022-06-28 00:00:05 +0000                                                                                                                                                        
 title: "Pre-print now available on ArXiv"
 
 photo: "images/xas.png"
