@@ -31,5 +31,6 @@ social:
 
 
 exclude:
+  - vendor
   - Gemfile
   - Gemfile.lock
