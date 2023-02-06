@@ -1,0 +1,10 @@
+---                                                                                                                                                                                      
+categories: news                                                                                                                                                                 
+date:  2023-01-10 00:00:01 +0000                                                                                                                                                        
+title: "Andrea Iliceto published an article in the Journal of the American Chemical Society"
+
+photo: "images/2023_01_10.gif"
+
+---            
+Metal–organic magnets (MOMs), modular magnetic materials where metal atoms are connected by organic linkers, are promising candidates for next-generation quantum technologies. MOMs readily form low-dimensional structures and so are ideal systems to realize physical examples of key quantum models, including the Haldane phase, where a topological excitation gap occurs in integer-spin antiferromagnetic (AFM) chains. Thus, far the Haldane phase has only been identified for S = 1, with S ≥ 2 still unrealized because the larger spin imposes more stringent requirements on the magnetic interactions. Here, we report the structure and magnetic properties of CrCl2(pym) (pym = pyrimidine), a new quasi-1D S = 2 AFM MOM. We show, using X-ray and neutron diffraction, bulk property measurements, density-functional theory calculations, and inelastic neutron spectroscopy (INS), that CrCl2(pym) consists of AFM CrCl2 spin chains (J1 = −1.13(4) meV) which are weakly ferromagnetically coupled through bridging pym (J2 = 0.10(2) meV), with easy-axis anisotropy (D = −0.15(3) meV). We find that, although small compared to J1, these additional interactions are sufficient to prevent observation of the Haldane phase in this material. Nevertheless, the proximity to the Haldane phase together with the modularity of MOMs suggests that layered Cr(II) MOMs are a promising family to search for the elusive S = 2 Haldane phase.
+[Full Article](https://pubs.acs.org/doi/10.1021/jacs.2c10916)
