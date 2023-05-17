@@ -3,12 +3,12 @@ title:  "Angela F. Harper (2018 - 2022 )"
 date:   2018-06-30 14:16:33 +0100
 categories: previous
 photo: "/images/Angela.jpg"
-postmorris: "Former PhD Student "
+postmorris: "Alexander von Humboldt Postdoctoral Fellow at the FHI Berlin <br> Former PhD Student "
 website: "https://harpaf13.github.io/"
 position: "Former PhD Student"
 address: "TCM Group, Cavendish Laboratory, Mott building, Room 525"
 telephone: "+44 1223 336073"
-email: "afh41@cam.ac.uk"
+email: "harper@fhi-berlin.mpg.de"
 skype: "harpange42"
 twitter: "@harpaf13"
 ---
