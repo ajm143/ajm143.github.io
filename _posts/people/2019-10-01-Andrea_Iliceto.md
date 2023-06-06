@@ -14,4 +14,4 @@ twitter: ""
 
 I am a PhD student in the Morris Group working in the School of Metallurgy and Materials at the University of Birmingham. I carry out DFT research on strongly correlated materials, focusing  on metal-organic frameworks [such as CrCl2(pym)] and quantum spin liquids [such as Barlowite].
 
-During my previous studies, I completed an integrated Master’s Degree at the University of York in Theoretical Physics. My Master’s dissertation project focused on atomistic spin dynamics simulations of magnetoresistive random access memory.
+During my previous studies, I completed a Master’s Degree at the University of York in Theoretical Physics. My Master’s dissertation project focused on atomistic spin dynamics simulations of magnetoresistive random access memory.
