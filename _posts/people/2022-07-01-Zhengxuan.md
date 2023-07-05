@@ -1,7 +1,7 @@
 ---
-title:  "Zhengxuan Li"
+title:  "Zhengxuan Li (2022)"
 date:   2022-07-01 14:16:33 +0100
-categories: current
+categories: previous
 photo: "/images/Zhengxuan.jpeg"
 position: "Undergraduate, Summer Student"
 project: ""
