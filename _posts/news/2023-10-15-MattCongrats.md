@@ -3,7 +3,7 @@ categories: news
 date:  2023-10-15 00:00:01 +0000                                                                                                                                                        
 title: "Congratulations to Matt on his successful PhD viva!"
 
-photo: "images/MLE.jpg"
+photo: "images/MLE.JPG"
 
 ---            
 
