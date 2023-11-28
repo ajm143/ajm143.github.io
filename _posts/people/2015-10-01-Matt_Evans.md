@@ -4,7 +4,7 @@ date:   2018-06-30 14:16:33 +0100
 categories: current
 photo: "/images/MLE.JPG"
 website: "https://ml-evs.science"
-position: "PhD Student"
+position: "Visiting Post Doctoral Research Associate <br> Former PhD Student"
 address: "TCM Group, Cavendish Laboratory, Mott building, Room 525"
 email: "me388@cam.ac.uk"
 twitter: "@funroll_loops"
