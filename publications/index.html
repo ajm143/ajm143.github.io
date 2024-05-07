@@ -98,7 +98,7 @@ title: Publications
 
             <div class="row">
                 <div class="lead">
-                &nbsp;{{ label }}. {% if post.oa %} <a href="http://doi.org/{{ post.oa }}"><img src="../images/OA.png" style="height : 20px"></a> {% endif %} {% if post.arx %} <a href="{{ post.arx }}"><img src="../images/arx.png" style="height : 20px"></a> {% endif %} "{{ post.title }}", {{ post.authors }},  <i>{{ post.journal }}</i>, <b>{{ post.volume}}</b> {% if post.issue %} ({{ post.issue }}) {% endif %}, {{ post.pages }} ({{ post.year }}) <a href="http://doi.org/{{ post.doi }}">DOI: {{ post.doi }}</a>  {{ post.content | remove: '<p>' | remove: '</p>' }}
+                &nbsp;{{ label }}. {% if post.oa %} <a href="http://doi.org/{{ post.oa }}"><img src="../images/OA.png" style="height : 20px"></a> {% endif %} {% if post.arx %} <a href="{{ post.arx }}"><img src="../images/arx.png" style="height : 20px"></a> {% endif %} "{{ post.title }}", {{ post.authors }},  <i>{{ post.journal }}</i>, <b>{{ post.volume}}</b> {% if post.issue %} ({{ post.issue }}), {% endif %} {{ post.pages }} ({{ post.year }}) {% if post.doi %} <a href="http://doi.org/{{ post.doi }}">DOI: {{ post.doi }}</a> {% endif %} {% if post.arx %} <a href="{{ post.arx }}"> arXiv </a> {% endif %} {{ post.content | remove: '<p>' | remove: '</p>' }}
 {% assign counter=label %}
                 </div>
                 </div>
@@ -128,7 +128,7 @@ title: Publications
         <div class="container">
             <div class="row">
                 <div class="lead">			
-                &nbsp;{{ label }}. {% if post.oa %} <a href="http://doi.org/{{ post.oa }}"><img src="../images/OA.png" style="height : 20px"></a> {% endif %} {% if post.arx %} <a href="{{ post.arx }}"><img src="../images/arx.png" style="height : 20px"></a> {% endif %} "{{ post.title }}", {{ post.authors }},  <i>{{ post.journal }}</i>, <b>{{ post.volume}}</b> {% if post.issue %} ({{ post.issue }}) {% endif %}, {{ post.pages }} ({{ post.year }}) <a href="http://doi.org/{{ post.doi }}">DOI: {{ post.doi }}</a>  {{ post.content | remove: '<p>' | remove: '</p>' }}
+                &nbsp;{{ label }}. {% if post.oa %} <a href="http://doi.org/{{ post.oa }}"><img src="../images/OA.png" style="height : 20px"></a> {% endif %} {% if post.arx %} <a href="{{ post.arx }}"><img src="../images/arx.png" style="height : 20px"></a> {% endif %} "{{ post.title }}", {{ post.authors }},  <i>{{ post.journal }}</i>, <b>{{ post.volume}}</b> {% if post.issue %} ({{ post.issue }}), {% endif %} {{ post.pages }} ({{ post.year }}) {% if post.doi %} <a href="http://doi.org/{{ post.doi }}">DOI: {{ post.doi }}</a> {% endif %} {% if post.arx %} <a href="{{ post.arx }}"> arXiv </a> {% endif %} {{ post.content | remove: '<p>' | remove: '</p>' }}
 {% assign counter=label %}
                 </div>
                 </div>
