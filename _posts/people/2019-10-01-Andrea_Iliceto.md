@@ -3,7 +3,7 @@ title:  "Andrea Iliceto"
 date:   2018-10-01 14:16:33 +0100
 categories: current
 photo: "/images/Andrea_Iliceto.jpg"
-position: "PhD Student"
+position: "Former PhD Student (2019-2023)"
 address: "1B20,  School of Metallurgy and Materials,  University of Birmingham  Edgbaston  Birmingham  B15 2TT  UK"
 telephone: ""
 email: "axi929@bham.ac.uk"

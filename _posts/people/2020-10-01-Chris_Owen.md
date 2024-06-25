@@ -3,7 +3,7 @@ title:  "Chris Owen"
 date:   2018-10-01 14:16:33 +0100
 categories: current
 photo: "/images/Chris.png"
-position: "PhD student. Former Masters' Student (2020-21)"
+position: "PhD student <br> Former Masters' Student (2020-21)"
 address: ""
 telephone: ""
 email: "cbo738@student.bham.ac.uk"
