@@ -1,6 +1,6 @@
 <section id="news">
 <!-- Page Content -->
-{% for post in site.posts limit:7 %}
+{% for post in site.posts limit:9 %}
 {% if post.categories contains 'news' %}
   {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
     {% if thecycle == 'odd' %}
