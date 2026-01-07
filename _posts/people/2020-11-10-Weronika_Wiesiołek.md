@@ -1,5 +1,5 @@
 ---
-title:  "Weronika Wiesiołek"
+title:  "Weronika Wiesiołek (2020-2022)"
 date:   2018-10-02 14:16:33 +0100
 categories: previous
 photo: "/images/Weronika.jpg"

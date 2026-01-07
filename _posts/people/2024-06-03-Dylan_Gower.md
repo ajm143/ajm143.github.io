@@ -1,5 +1,5 @@
 ---
-title:  "Dylan Gower"
+title:  "Dylan Gower (2024)"
 date:   2024-06-03 14:24:33 +0100
 categories: previous
 photo: "/images/Dylan.jpg"

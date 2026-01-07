@@ -1,5 +1,5 @@
 ---
-title:  "Angela F. Harper (2018 - 2022 )"
+title:  "Angela F. Harper (2018 - 2022)"
 date:   2018-06-30 14:16:33 +0100
 categories: previous
 photo: "/images/Angela.jpg"

@@ -1,7 +1,7 @@
 ---
-title:  "Andrea Iliceto"
+title:  "Andrea Iliceto (2019-2023)"
 date:   2018-10-01 14:16:33 +0100
-categories: current
+categories: previous
 photo: "/images/Andrea_Iliceto.jpg"
 position: "Former PhD Student (2019-2023)"
 address: "1B20,  School of Metallurgy and Materials,  University of Birmingham  Edgbaston  Birmingham  B15 2TT  UK"

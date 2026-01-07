@@ -1,7 +1,7 @@
 ---
-title:  "Matthew Evans"
+title:  "Matthew Evans (2015-2023)"
 date:   2018-06-30 14:16:33 +0100
-categories: current
+categories: previous
 photo: "/images/MLE.JPG"
 website: "https://ml-evs.science"
 position: "Visiting Post Doctoral Research Associate <br> Former PhD Student"

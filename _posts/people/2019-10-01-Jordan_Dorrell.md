@@ -1,7 +1,7 @@
 ---
-title:  "Jordan Dorrell"
+title:  "Jordan Dorrell (2019-2023)"
 date:   2018-10-01 14:16:33 +0100
-categories: current
+categories: previous
 photo: "/images/jord.png"
 position: "Former PhD Student (2019-2023)"
 project: "AIRSS on Li-ion cathodes"
