@@ -1,6 +1,6 @@
 ---
 title:  " Chandan Kumar Singh (2022-2023)"
-date:   2024-08-12 12:00:00 +0100
+date:   2022-01-04 12:00:00 +0100
 categories: previous
 photo: "/images/chandan.jpg"
 postmorris: "PDRA at Uppsala University <br> Former Post Doctoral Research Fellow"
