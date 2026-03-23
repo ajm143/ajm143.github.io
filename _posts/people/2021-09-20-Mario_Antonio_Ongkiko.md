@@ -2,7 +2,7 @@
 title:  "Mario Antonio Ongkiko"
 date:   2021-09-20 14:16:33 +0100
 categories: current
-photo: "/images/Mario_Antonio_Ongkiko.jpg"
+photo: "/images/Mario.jpg"
 position: "Post Doctoral Research Associate <br> Former PhD Student (2021-2025)"
 project: ""
 address: ""
