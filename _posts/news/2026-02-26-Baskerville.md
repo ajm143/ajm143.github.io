@@ -2,7 +2,7 @@
 categories: news                                                                                                                                                                 
 date:  2026-02-26 15:04:00 +0000                                                                                                                                                         
 title: "University of Birmingham to host national computing centre"
-photo: ""
+photo: "/images/baskerville.png"
 
 ---            
 
