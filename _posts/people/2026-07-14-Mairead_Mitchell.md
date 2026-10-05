@@ -3,7 +3,7 @@ title:  "Mairead Mitchell (2026)"
 date:   2026-07-14 07:30:00 +0100
 categories: previous
 photo: "/images/Mairead-Mitchell.jpg"
-position: "Undergraduate, Summer Student"
+postmorris: "Undergraduate, Summer Student"
 address: ""
 telephone: ""
 email: "mxm1686@student.bham.ac.uk"
