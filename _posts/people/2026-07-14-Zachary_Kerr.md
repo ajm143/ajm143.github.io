@@ -3,7 +3,7 @@ title:  "Zachary Kerr (2026)"
 date:   2026-07-14 07:30:00 +0100
 categories: previous
 photo: "/images/Zachary-Kerr.jpg"
-position: "Undergraduate, Summer Student"
+postmorris: "Undergraduate, Summer Student"
 address: ""
 telephone: ""
 email: "zxk339@student.bham.ac.uk"
